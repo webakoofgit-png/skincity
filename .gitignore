@@ -1,0 +1,12 @@
+# Local backup archives and verification output
+/skincity 11may2026.zip
+/.verification/
+
+# Dependencies, local configuration, and credentials
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db

@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XEC9BP5G8L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-XEC9BP5G8L');
+</script>
+  <link rel="canonical" href="https://skincityindia.in/hair-treatments">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+    <link href="assets/images/about/favicon.svg" rel="icon">
+    <title>Hair Treatments</title>
+    <meta property="og:image" content="https://skincityindia.in/assets/images/services/hairpreview.png" loading="lazy" />
+    <meta property="og:title" content="hair treatment">
+    <meta name="description"
+        content="Keloids, characterized by raised, overgrown scars, can affect one's appearance and self-esteem. At Skincity India, we understand the challenges posed by keloids and offer a holistic approach to treatment. " />
+    <meta property="og:url" content="https://skincityindia.in/hair-treatments" />
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css">
+    <link rel="stylesheet" href="assets/css/libraries.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+        integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"   />
+</head>
+
+<body>
+    <div class="wrapper">
+        
+
+        <header class="header header-layout1">
+  
+            <div class="header-topbar">
+                <div class="container-fluid">
+                    <div class="row align-items-center">
+                        <div class="col-12">
+                            <div class="d-flex align-items-center justify-content-between">
+                                <ul class="contact__list d-flex flex-wrap align-items-center list-unstyled mb-0 text-center"
+                                    style="margin-top: 20px;">
+
+                                    <li>
+                                        <i class="icon-phone"></i><a href="tel:+91 9890225577">+91 9890225577</a> / <a href="tel:+919422458130">+91 9422458130</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-location"></i><a href="#">Location: The Nucleus Mall, Church
+                                            Road, Opposite
+                                            Commissioner Office, Maharashtra 411001</a>
+                                    </li>
+
+                                </ul>
+                                <div class="d-flex" style="margin-top: 10px;">
+                                    <ul class="social-icons list-unstyled mb-0 mr-30">
+                                        <li><a href="https://www.facebook.com/DhepesSkinCity" target="_blank"><i
+                                                    class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="https://instagram.com/skin.city.india" target="_blank"><i
+                                                    class="fab fa-instagram"></i></a></li>
+                                        <li><a href="https://youtube.com/c/SkinCityIndiaOfficial" target="_blank"><i
+                                                    class="fab fa-youtube"></i></a></li>
+                                        <li><a href="https://twitter.com/india_skin" target="_blank"><i
+                                                    class="fab fa-twitter"></i></a></li>
+                                    </ul>
+                                    <form class="header-topbar__search" style="margin-top: 10px;">
+                                        <input type="text" class="form-control" placeholder="Search...">
+                                        <button class="header-topbar__search-btn"><i class="fa fa-search"></i></button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <nav class="navbar navbar-expand-lg sticky-navbar">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="">
+                        <img src="assets/images/logo/logo.png" class="" alt="Skin City India" loading="lazy" width="160px" height="80px">
+
+                    </a>
+                    <button class="navbar-toggler" type="button">
+                        <span class="menu-lines"><span></span></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="mainNavigation">
+                        <ul class="navbar-nav ml-auto">
+
+
+
+                            <li class="nav__item">
+                                <a href="/" class="nav__item-link">Home</a>
+                            </li>
+                            <li class="nav__item has-dropdown">
+                                <a href="treatments" class="dropdown-toggle nav__item-link">Treatments</a>
+                                <ul class="dropdown-menu">
+                                    <li class="nav__item">
+                                        <a href="vitiligo" class="nav__item-link">Vitiligo</a>
+                                    </li>
+                                    <li class="nav__item">
+                                        <a href="keloids" class="nav__item-link">Keloids</a>
+                                    </li>
+                                    <li class="nav__item">
+                                        <a href="hair-treatments" class="nav__item-link">Hair Treatment</a>
+                                    </li>
+                                    <li class="nav__item">
+                                        <a href="hair-transplant" class="nav__item-link">Hair Transplant</a>
+                                    </li>
+                                    <li class="nav__item">
+                                      <a href="birthmark" class="nav__item-link">Birthmark</a>
+                                  </li>
+                                  <li class="nav__item">
+                                    <a href="laser-tatoo-removal" class="nav__item-link">Laser Tatoo Removal </a>
+                                </li>
+                                </ul>
+                            </li>
+                            <li class="nav__item">
+                                <a href="success-stories" class="nav__item-link">Success Stories</a>
+                            </li>
+                            <li class="nav__item">
+
+
+                                <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank"
+                                    class="btn btn__primary btn__rounded ml-25" style="margin-top: 20px;">
+                                    <i class="icon-calendar"></i>
+                                    <span>Appointment</span>
+                                </a>
+                            </li>
+                        </ul>
+                        <button class="close-mobile-menu d-block d-lg-none"><i class="fas fa-times"></i></button>
+
+                    </div>
+
+                </div>
+            </nav>
+        </header>
+
+        <a href="https://api.whatsapp.com/send?phone=+919890225577&amp;text=Hello, I am interested for Skin Care Treatment,We Saw Your Ad On Google."
+            class="float" target="_blank">
+            <!-- <i class="fa- fa-whatsapp my-float"></i> -->
+            <i class="fa-brands fa-whatsapp" style="color: #fafafa;"></i>
+        </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <section class="page-title page-title-layout2 bg-overlay text-center pb-10">
+            <div class="bg-img"><img src="assets/images/page-title bg.png" alt=""></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col-md-12 col-lg-12 col-xl-8 offset-xl-2">
+                        <img src="assets/images/services/circle-3.png" alt="" loading="lazy" width="150px" height="150px">
+                        <h1 class="pagetitle__heading">Hair Treatment</h1>
+
+                        <a href="#content" class="scroll-down"><i class="fas fa-long-arrow-alt-down"></i></a>
+                    </div><!-- /.col-xl-8 -->
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </section><!-- /.page-title -->
+
+
+        <section id="content" class=" pb-80">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col-md-12 col-lg-8">
+                        <div class="text-block mb-50">
+                            <!-- <p class="text-block__desc mb-20 font-weight-bold color-secondary"><span style="color: #213360;">Introduction:</span>
+                Keloids, characterized by raised, overgrown scars, can affect one's appearance and self-esteem. At Skincity India, we understand the challenges posed by keloids and offer a holistic approach to treatment, focusing not only on removal but also on promoting skin health and confidence. In this blog, we will explore the intricacies of keloid treatment, covering everything from advanced therapies to keloid scar prevention.
+                </p> -->
+                            <div class="video-banner-layout3 bg-overlay mb-50">
+                                <img src="assets/images/services/hair treatment.png" alt="Scalp treatment for hair loss" loading="lazy">
+                                
+                            </div><!-- /.video-banner -->
+                            <p class="text-block__desc mb-20"><b style="color: #213360;">Introduction:</b><br>
+                                Hair loss can significantly impact one's confidence and self-image, but at Skincity
+                                India, we understand that hair restoration goes beyond aesthetics. Our advanced hair
+                                treatment solutions focus not only on restoring hair but also on promoting long-term
+                                scalp health and confidence. In this blog, we’ll dive into the comprehensive hair
+                                treatment options available at Skincity, exploring everything from non-invasive
+                                therapies to advanced hair transplant techniques.
+                            </p>
+                            <p class="text-block__desc mb-20"><b style="color:#213360 ;">Understanding Hair Loss:</b>
+                                Hair loss, or alopecia, is a common issue that affects people of all ages and genders.
+                                It can be caused by various factors, including genetics, hormonal imbalances, stress,
+                                nutritional deficiencies, and environmental factors. Hair loss can manifest in several
+                                ways, from gradual thinning to sudden bald patches, and addressing it early can be key
+                                to successful treatment.
+                            </p>
+
+
+                            <p class="text-block__desc mb-20"><b style="color:#213360 ;">Hair Treatment Options at
+                                    Skincity India:</b>
+                                Skincity India offers a wide range of hair treatment options, each tailored to meet
+                                individual needs and hair loss patterns. Our experienced dermatologists assess each
+                                patient’s unique situation to recommend the most effective treatments, ensuring optimal
+                                results and lasting satisfaction.
+                            </p>
+                            <p class="text-block__desc mb-20"><b style="color:#213360 ;">1.PRP (Platelet-Rich Plasma)
+                                    Therapy: </b>
+                                PRP therapy is a popular non-invasive treatment that utilizes the patient's own blood
+                                plasma, which is rich in growth factors, to stimulate hair follicles and promote hair
+                                growth. It’s a safe and natural method with minimal downtime, making it ideal for
+                                individuals looking for a non-surgical option to restore thinning hair.
+                            </p>
+                            <p class="text-block__desc mb-20"><b style="color:#213360 ;">2.Growth Factor Therapy: </b>
+                                Growth Factor Therapy involves injecting growth factor-rich solutions into the scalp to
+                                rejuvenate hair follicles, stimulate growth, and improve hair density. This advanced
+                                treatment is effective for early-stage hair loss and can significantly enhance hair
+                                quality and strength.
+                            </p>
+                            <p class="text-block__desc mb-20"><b style="color:#213360 ;">3.Stem Cell Therapy: </b>
+                                Skincity’s stem cell therapy harnesses the power of stem cells to target hair loss at
+                                the cellular level. This therapy promotes hair regeneration by activating dormant
+                                follicles and encouraging new hair growth. It’s especially effective for individuals
+                                experiencing genetic or age-related hair thinning.
+                            </p>
+                            <p class="text-block__desc mb-20"> <b style="color:#213360 ;">Hair Transplant Surgery (FUE
+                                    and FUT Techniques):</b>
+                                For individuals with advanced hair loss, hair transplant surgery might be recommended.
+                                Skincity India specializes in Follicular Unit Extraction (FUE) and Follicular Unit
+                                Transplantation (FUT) methods.<br>
+
+                                <b>FUE:</b> Involves extracting individual hair follicles and transplanting them to the
+                                thinning areas. It offers a natural look with minimal scarring.<br>
+                                <b>FUT:</b> Involves removing a strip of scalp tissue from the donor area and dissecting
+                                it into grafts. This technique is ideal for those seeking maximum density and coverage.
+                                Our skilled surgeons work meticulously to ensure natural hairlines and achieve the
+                                desired aesthetic results.<br>
+
+                            </p>
+
+                            <p class="text-block__desc mb-20"><b style="color:#213360 ;">Low-Level Laser Therapy
+                                    (LLLT):</b> Low-Level Laser Therapy uses laser light to stimulate hair follicles,
+                                increase blood circulation, and promote hair growth. This painless, non-invasive
+                                treatment is suitable for those with mild to moderate hair loss and can complement other
+                                hair restoration treatments.</p>
+                            <p class="text-block__desc mb-20"> <b style="color:#213360 ;">Preventing Further Hair
+                                    Loss:</b><br>
+
+
+                                <b style="color:#000;">1.Nutritional Supplements: </b> A balanced diet and the right
+                                supplements play a crucial role in hair health. Skincity offers guidance on nutritional
+                                supplements that can help prevent further hair loss and support hair growth, including
+                                vitamins like biotin, vitamin D, and minerals like zinc and iron.<br>
+                                <b style="color:#000;">2.Topical Treatments:</b> Involves removing a strip of scalp
+                                tissue from the donor area and dissecting it into grafts. This technique is ideal for
+                                those seeking maximum density and coverage. Our skilled surgeons work meticulously to
+                                ensure natural hairlines and achieve the desired aesthetic results.<br>
+                                <b style="color:#000;">3.Hair Care Regimen:</b> Our dermatologists design personalized
+                                hair care routines tailored to each patient’s specific needs. This includes
+                                recommendations for gentle shampoos, conditioners, and scalp care products that help
+                                maintain a healthy scalp and prevent further hair loss.<br>
+                            </p>
+                        </div><!-- /.text-block -->
+
+
+                        <div class="widget-plan mb-60">
+                            <div class="widget__body">
+                                <h5 class="widget__title">Expert Dermatologists Near You:</h5>
+                                <p class="text-block__desc mb-20"> At Skincity India, our team of expert dermatologists
+                                    has extensive experience in
+                                    hair treatment and restoration. We believe in a personalized approach, taking the
+                                    time to understand each patient’s concerns, goals, and expectations to create
+                                    customized treatment plans.
+                                </p>
+                                <h5 class="widget__title">Cost of Hair Treatment:</h5>
+                                <p class="text-block__desc mb-20"> The cost of hair treatment varies depending on the
+                                    type of procedure, the extent of
+                                    hair loss, and the number of sessions required. At Skincity India, we are committed
+                                    to transparent pricing, ensuring our patients have a clear understanding of their
+                                    financial commitment from the outset. A detailed cost estimate is provided during
+                                    the initial consultation.
+                                </p>
+                                <div class="row">
+
+
+                                </div>
+                            </div>
+
+                        </div>
+                        <ul class="list-items list-unstyled mb-60 pl-40 text-block__desc mb-20">
+                            <li>Expert Dermatologists Near You:–Skincity India takes pride in offering access to expert
+                                dermatologists with extensive experience in keloid treatment. Our skin specialists focus
+                                on understanding each patient's unique concerns and crafting personalized treatment
+                                plans that align with their goals.</li>
+                            <li>Cost of Keloid Removal:- The cost of keloid removal varies based on factors such as
+                                treatment type, keloid size, and the number of sessions required. Skincity India
+                                believes in transparent pricing, and our team provides detailed cost estimates during
+                                the initial consultation, ensuring patients are well-informed about their financial
+                                commitment.</li>
+
+
+                        </ul>
+
+                        <div class="widget-plan mb-60">
+                            <div class="widget__body">
+
+<h5 class="widget__title">Conclusion:</h5>
+                                <p class="text-block__desc mb-20">
+
+                                    At Skincity India, our approach to hair
+                                    restoration is rooted in science, innovation, and patient-centric care. Whether
+                                    you're looking for a non-invasive option like PRP or considering a hair transplant
+                                    for more advanced hair loss, our dermatologists are here to support you every step
+                                    of the way. Don’t let hair loss impact your confidence. Rediscover your hair’s
+                                    potential with Skincity India and take the first step toward a fuller, healthier
+                                    head of hair. Book your consultation today and embark on your journey to restored
+                                    confidence and rejuvenated hair.
+                                </p>
+
+
+                            </div>
+
+                        </div>
+
+
+
+
+
+                    </div><!-- /.col-lg-8 -->
+                    <div class="col-sm-12 col-md-12 col-lg-4">
+                        <aside class="sidebar has-marign-left sticky-top">
+                            <div class="widget widget-services">
+                                <h5 class="widget__title text-center">Our Blogs</h5>
+                                <div class="widget-content">
+                                    <ul class="list-unstyled mb-0">
+                                        <li><a href="how-to-get -rid-of-dark-circle"><span>Dark Circle</span><i
+                                                    class="icon-arrow-right"></i></a></li>
+                                        <li><a href="how-to-get-fair-skin"><span>Fair Skin</span><i
+                                                    class="icon-arrow-right"></i></a></li>
+                                        <li><a href="how-to-get-rid-of-acne"><span>Acne</span><i
+                                                    class="icon-arrow-right"></i></a></li>
+                                        <li><a href="how-to-get-rid-of-blackheads-and-whiteheads"><span>Blackheads
+                                                </span><i class="icon-arrow-right"></i></a></li>
+
+                                    </ul>
+                                </div><!-- /.widget-content -->
+                            </div><!-- /.widget-services -->
+                            <div class="widget widget-help bg-overlay bg-overlay-secondary-gradient">
+                                <div class="bg-img"><img src="assets/images/banners/5.jpg" alt="" loading="lazy"></div>
+                                <div class="widget-content">
+                                    <div class="widget__icon">
+                                        <i class="icon-call3"></i>
+                                    </div>
+                                    <h4 class="widget__title">Appointment</h4>
+                                    <p class="widget__desc">Please feel free to contact our friendly reception staff for
+                                        any
+                                        enquiries.
+                                    </p>
+                                    <a href="tel:+91 9890225577" class="phone__number">
+                                        <i class="icon-phone"></i> <span>+91 9890225577</span>
+                                    </a>
+                                    <a href="tel:+919422458130" class="phone__number" style="display: flex; align-items: center;">
+                                        <i class="icon-phone"></i> <span>+91 9422458130</span>
+                                    </a>
+                                </div><!-- /.widget-content -->
+                            </div><!-- /.widget-help -->
+                            <div class="widget widget-schedule">
+                                <div class="widget-content">
+                                    <div class="widget__icon">
+                                        <i class="icon-charity2"></i>
+                                    </div>
+                                    <h4 class="widget__title text-center">Our Centers</h4>
+                                    <ul class="time__list list-unstyled mb-0 text-center">
+                                        <li style="text-align: center;"><span>camp,Pune</span></li>
+                                        <li style="text-align: center;"><span>Thane</span></li>
+                                        <li style="text-align: center;"><span>Aundh</span></li>
+                                    </ul>
+                                </div><!-- /.widget-content -->
+                            </div><!-- /.widget-schedule -->
+                            <!-- <div class="widget widget-reports">
+              <a href="#" class="btn btn__primary btn__block">
+                <i class="icon-pdf-file"></i>
+                <span>2020 Patient Reports</span>
+              </a>
+            </div> -->
+                        </aside><!-- /.sidebar -->
+                    </div><!-- /.col-lg-4 -->
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </section>
+
+
+        <footer class="footer" style="margin-top: 30px;">
+            <div class="footer-primary">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 col-lg-4">
+                            <div class="footer-widget-about">
+                                <img src="assets/images/logo/logo.png" class="" alt="Skin City India" loading="lazy" width="160px" height="80px">
+                                <p class="color-gray">To transform the lives of people by providing them with innovative
+                                    solutions, thereby making them happy, healthy and Confident.
+                                </p>
+                                <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank"
+                                    class="btn btn__primary btn__primary-style2 btn__link">
+                                    <span>Make Appointment</span> <i class="icon-arrow-right"></i>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-md-6 col-lg-4">
+                            <div class="footer-widget-nav">
+                                <h6 class="footer-widget__title">Address</h6>
+                                <p class="color-gray">The Nucleus Mall, F5, F6 a, F6b, F7, F8 & S9, Floor 1 & 2nd,
+                                    Church Road, Opposite Commissioner Office, Camp, Pune, Maharashtra 411001
+                                </p>
+
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-6 col-lg-4">
+                            <div class="footer-widget-contact">
+                                <h6 class="footer-widget__title color-heading">Quick Contacts</h6>
+                                <ul class="contact-list list-unstyled">
+                                    <li>If you have any questions or need help, feel free to contact with our team.</li>
+                                    <li>
+                                        <a href="" class="phone__number">
+                                            <i class="icon-phone"></i> <span>+91 9890225577/<br>+91 9422458130
+                                            </span>
+                                        </a>
+                                    </li>
+                                    <li class="color-body"> The Nucleus Mall, F5, F6 a, F6b, F7, F8 & S9, Floor 1 & 2nd,
+                                        Church Road, Opposite
+                                        Commissioner Office, Camp, Pune, Maharashtra 411001</li>
+                                </ul>
+                                <div class="d-flex align-items-center">
+                                    <!-- <a href="" class="btn btn__primary btn__link mr-30">
+                  <i class="icon-arrow-right"></i> <span>Get Directions</span>
+                </a> -->
+                                    <ul class="social-icons list-unstyled mb-0">
+                                        <li><a href="https://www.facebook.com/DhepesSkinCity" target="_blank"><i
+                                                    class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="https://instagram.com/skin.city.india" target="_blank"><i
+                                                    class="fab fa-instagram"></i></a></li>
+                                        <li><a href="https://youtube.com/c/SkinCityIndiaOfficial" target="_blank"><i
+                                                    class="fab fa-youtube"></i></a></li>
+                                        <li><a href="https://twitter.com/india_skin" target="_blank"><i
+                                                    class="fab fa-twitter"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-secondary">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-sm-12 col-md-6 col-lg-6">
+                            <span class="fz-14">&copy; 2026, All Rights Reserved by</span>
+                            <a class="fz-14 color-primary" href="https://instagram.com/skin.city.india"
+                                target="_blank">skincityindia</a>
+                            <span class="fz-14"> Distributed by</span>
+                            <a class="fz-14 color-primary"
+                                href="https://webakoof.com"
+                                target="_blank">Webakoof</a>
+                        </div>
+                        <div class="col-sm-12 col-md-6 col-lg-6">
+                            <nav>
+                                <ul
+                                    class="list-unstyled footer__copyright-links d-flex flex-wrap justify-content-end mb-0">
+                                    <li><a href="#">Terms & Conditions</a></li>
+                                    <li><a href="#">Privacy Policy</a></li>
+                                    <li><a href="#">Cookies</a></li>
+                                </ul>
+                            </nav>
+                        </div><!-- /.col-lg-6 -->
+                    </div><!-- /.row -->
+                </div><!-- /.container -->
+            </div><!-- /.footer-secondary -->
+        </footer><!-- /.Footer
+  <button id="scrollTopBtn"><i class="fas fa-long-arrow-alt-up"></i></button>
+</div><!-- /.wrapper -->
+
+        <script src="assets/js/jquery-3.5.1.min.js"></script>
+        <script src="assets/js/plugins.js"></script>
+        <script src="assets/js/main.js"></script>
+</body>
+
+</html>
