@@ -18,9 +18,8 @@
     <link href="assets/images/about/favicon.svg" rel="icon">
     <title>PRP Hair Treatment in Pune | Skin City India</title>
     <meta property="og:image" content="https://skincityindia.in/assets/images/services/previewplasma.png" loading="lazy" />
-    <meta property="og:title" content="Platelet-Rich Plasma">
-    <meta name="description"
-        content="Platelet-Rich Plasma (PRP) Therapy is an advanced hair loss treatment that uses autologous platelet-rich plasma to stimulate hair follicles and promote regrowth." />
+    <meta property="og:title" content="PRP Hair Treatment in Pune | Skin City India">
+    <meta name="description" content="Explore PRP hair treatment in Pune at Skin City India. Learn about non-surgical platelet-rich plasma therapy for hair thinning and hair loss." />
     <meta property="og:url" content="https://skincityindia.in/platelet-rich-plasma" />
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap">
@@ -302,7 +301,7 @@
                 <div class="row">
                     <div class="col-sm-12 col-md-12 col-lg-12 col-xl-8 offset-xl-2">
                         <img src="assets/images/services/circle-11.png" alt="" loading="lazy" width="150px" height="150px">
-                        <h1 class="pagetitle__heading">Platelet Rich Plasma</h1>
+                        <h1 class="pagetitle__heading">PRP Hair Treatment in Pune</h1>
 
                         <a href="#content" class="scroll-down"><i class="fas fa-long-arrow-alt-down"></i></a>
                     </div>
@@ -318,17 +317,34 @@
                         <div class="text-block mb-50">
 
                             <div class="video-banner-layout3 bg-overlay mb-50" style="text-align: justify;">
-                                <img src="assets/images/services/platent plasma.png" alt="Platelet-rich plasma injection into the scalp for hair loss" loading="lazy">
+                                <img src="assets/images/platelet-rich-plasma.webp" alt="Dermatologist performing platelet-rich plasma (PRP) hair treatment on a patient's scalp." loading="lazy" width="1672" height="941" decoding="async" style="width: 100%; height: auto;">
                                 
                             </div>
-                            <p class="text-block__desc mb-20"><b
-                                    style="color: #213360;font-size: 25px;text-align: justify;">Platelet Rich Plasma</b><br>
-                                    Platelet-Rich Plasma (PRP) Therapy is an advanced hair loss treatment that uses autologous platelet-rich plasma to stimulate hair follicles and promote regrowth. The process involves extracting the patient’s blood, enriching it with growth factors, and injecting it into the scalp using a minimally invasive technique. PRP contains essential proteins and nutrients that enhance blood circulation, nourish hair follicles, and reduce hair fall. It is effective for conditions like telogen effluvium, androgenetic alopecia, and female pattern hair loss. Results are visible within 3-6 months, requiring 4-6 sessions for optimal outcomes.<br>
+                            <h2 class="text-block__title">Advanced Platelet Rich Plasma Therapy for Hair Loss</h2>
+                            <p class="text-block__desc mb-30">Hair thinning and excessive hair fall can affect both men and women. At Skin City India, Pune, Platelet Rich Plasma (PRP) therapy is offered as a non-surgical treatment option for suitable patients experiencing certain types of hair loss.</p>
 
+                            <h2 class="text-block__title">What Is PRP Hair Treatment?</h2>
+                            <p class="text-block__desc mb-20">PRP (Platelet Rich Plasma) therapy uses a concentrated portion of the patient's own blood containing platelets. The prepared plasma is injected into selected areas of the scalp.</p>
+                            <p class="text-block__desc mb-30">PRP may help support hair growth and improve hair density in some patients, depending on the underlying cause of hair loss.</p>
 
-                            </p>
+                            <h2 class="text-block__title">Benefits of PRP Hair Treatment</h2>
+                            <ul class="text-block__desc pl-20 mb-30">
+                                <li class="mb-10"><strong>Non-Surgical Procedure:</strong> No hair transplantation required.</li>
+                                <li class="mb-10"><strong>Uses Your Own Blood:</strong> PRP is prepared from the patient's blood sample.</li>
+                                <li class="mb-10"><strong>Targeted Scalp Treatment:</strong> Applied to areas affected by hair thinning.</li>
+                                <li class="mb-10"><strong>Hair Growth Support:</strong> May improve hair density in suitable patients.</li>
+                                <li><strong>Minimal Downtime:</strong> Many patients can resume routine activities shortly after treatment.</li>
+                            </ul>
 
+                            <h2 class="text-block__title">How Does PRP Hair Treatment Work?</h2>
+                            <p class="text-block__desc mb-20">Our dermatologists assess your scalp and hair loss pattern before recommending treatment.</p>
+                            <p class="text-block__desc mb-20">A small blood sample is collected and processed using a centrifuge to separate platelet-rich plasma. The prepared PRP is then injected into targeted scalp areas.</p>
+                            <p class="text-block__desc mb-30">Multiple sessions may be recommended. Results vary depending on the individual and the type of hair loss.</p>
 
+                            <h2 class="text-block__title">Consult a PRP Hair Treatment Specialist in Pune</h2>
+                            <p class="text-block__desc mb-20">Experiencing hair thinning or excessive hair fall? Visit Skin City India for a professional scalp assessment and personalized hair restoration guidance.</p>
+                            <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank"
+                                class="btn btn__primary btn__rounded">Book an Appointment Today!</a>
 
                         </div>
 
@@ -506,4 +522,4 @@
     <script src="assets/js/main.js"></script>
 </body>
 
-</html> 
+</html>
