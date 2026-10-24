@@ -342,7 +342,7 @@
                             <p class="text-block__desc mb-20">Our dermatologists examine the affected skin, assess the extent and stability of vitiligo, and recommend a suitable treatment plan.</p>
                             <p class="text-block__desc mb-30">The number of sessions and response to treatment depend on the condition and individual skin characteristics.</p>
 
-                            <h2 class="text-block__title">Consult a Vitiligo Specialist in Pune</h2>
+                            <h2 class="text-block__title">Consult a Vitiligo Specialist</h2>
                             <p class="text-block__desc mb-20">Noticing white patches or changes in skin pigmentation? Visit <strong>Skin City India</strong> for professional evaluation and personalized vitiligo treatment guidance.</p>
                             <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank" class="btn btn__primary btn__rounded">Book an Appointment Today!</a>
                         </div><!-- /.text-block -->
@@ -392,10 +392,11 @@
                                     </div>
                                     <h4 class="widget__title text-center">Our Centers</h4>
                                     <ul class="time__list list-unstyled mb-0 text-center">
-                                        <li style="text-align: center;"><span>camp,Pune</span></li>
-                                        <li style="text-align: center;"><span>New Mumbai</span></li>
-                                        <li style="text-align: center;"><span>Belapur</span></li>
-                                        <li style="text-align: center;"><span>Aundh</span></li>
+                                        <li style="text-align: center;"><span>Solapur</span></li>
+                                        <li style="text-align: center;"><span>Pune Camp</span></li>
+                                        <li style="text-align: center;"><span>Pune Aundh</span></li>
+                                        <li style="text-align: center;"><span>Navi Mumbai Belapur</span></li>
+                                        <li style="text-align: center;"><span>Chhatrapati Sambhajinagar</span></li>
                                     </ul>
                                 </div><!-- /.widget-content -->
                             </div><!-- /.widget-schedule -->

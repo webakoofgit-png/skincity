@@ -16,10 +16,10 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
     <link href="assets/images/about/favicon.svg" rel="icon">
-    <title>Laser Hair Growth Treatment in Pune | Skin City India</title>
+    <title>Laser Hair Growth Treatment | Skin City India</title>
     <meta property="og:image" content="https://skincityindia.in/assets/images/services/previewhairgrow.png" loading="lazy" />
-    <meta property="og:title" content="Laser Hair Growth Treatment in Pune | Skin City India">
-    <meta name="description" content="Explore laser hair growth treatment in Pune at Skin City India. Learn about non-surgical laser therapy for hair thinning and personalized scalp care." />
+    <meta property="og:title" content="Laser Hair Growth Treatment | Skin City India">
+    <meta name="description" content="Explore laser hair growth treatment at Skin City India. Learn about non-surgical laser therapy for hair thinning and personalized scalp care." />
     <meta property="og:url" content="https://skincityindia.in/laser-hair-grow" />
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap">
@@ -302,7 +302,7 @@
                 <div class="row">
                     <div class="col-sm-12 col-md-12 col-lg-12 col-xl-8 offset-xl-2">
                         <img src="assets/images/services/circle-10.png" alt="" loading="lazy" width="150px" height="150px">
-                        <h1 class="pagetitle__heading">Laser Hair Growth Treatment in Pune</h1>
+                        <h1 class="pagetitle__heading">Laser Hair Growth Treatment</h1>
 
                         <a href="#content" class="scroll-down"><i class="fas fa-long-arrow-alt-down"></i></a>
                     </div>
@@ -342,7 +342,7 @@
                             <p class="text-block__desc mb-20">During the procedure, a specialized light-based device is applied to the scalp for a planned duration. Multiple sessions may be recommended depending on individual needs.</p>
                             <p class="text-block__desc mb-30">Results vary, and treatment effectiveness depends on the underlying cause of hair loss.</p>
 
-                            <h2 class="text-block__title">Consult a Hair Fall Specialist in Pune</h2>
+                            <h2 class="text-block__title">Consult a Hair Fall Specialist</h2>
                             <p class="text-block__desc mb-20">Experiencing hair thinning or excessive hair fall? Visit Skin City India for a professional scalp assessment and personalized treatment guidance.</p>
                             <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank"
                                 class="btn btn__primary btn__rounded">Book an Appointment Today!</a>
@@ -401,10 +401,11 @@
                                     </div>
                                     <h4 class="widget__title text-center">Our Centers</h4>
                                     <ul class="time__list list-unstyled mb-0 text-center">
-                                        <li style="text-align: center;"><span>camp,Pune</span></li>
-                                        <li style="text-align: center;"><span>New Mumbai</span></li>
-                                        <li style="text-align: center;"><span>Belapur</span></li>
-                                        <li style="text-align: center;"><span>Aundh</span></li>
+                                        <li style="text-align: center;"><span>Solapur</span></li>
+                                        <li style="text-align: center;"><span>Pune Camp</span></li>
+                                        <li style="text-align: center;"><span>Pune Aundh</span></li>
+                                        <li style="text-align: center;"><span>Navi Mumbai Belapur</span></li>
+                                        <li style="text-align: center;"><span>Chhatrapati Sambhajinagar</span></li>
                                     </ul>
                                 </div>
                             </div>

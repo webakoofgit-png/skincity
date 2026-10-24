@@ -16,10 +16,10 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
   <link href="assets/images/about/favicon.svg" rel="icon">
-  <title>Microscopic Hair Analysis in Pune | Skin City India</title>
+  <title>Microscopic Hair Analysis | Skin City India</title>
   <meta property="og:image" content="https://skincityindia.in/assets/images/services/previewmcroscopic.png" loading="lazy"/>
-  <meta property="og:title" content="Microscopic Hair Analysis in Pune | Skin City India">
-  <meta name="description" content="Get microscopic hair analysis in Pune at Skin City India. Examine hair thinning, scalp health and hair loss patterns with a detailed scalp assessment." />
+  <meta property="og:title" content="Microscopic Hair Analysis | Skin City India">
+  <meta name="description" content="Get microscopic hair analysis at Skin City India. Examine hair thinning, scalp health and hair loss patterns with a detailed scalp assessment." />
   <meta property="og:url" content="https://skincityindia.in/microscopic-hair-analysis" />
   <link rel="stylesheet"
     href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap">
@@ -302,7 +302,7 @@
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-12 col-xl-8 offset-xl-2">
             <img src="assets/images/services/circle-7.png" alt="" loading="lazy" width="150px" height="150px">
-            <h1 class="pagetitle__heading">Microscopic Hair Analysis in Pune</h1>
+            <h1 class="pagetitle__heading">Microscopic Hair Analysis</h1>
 
             <a href="#content" class="scroll-down"><i class="fas fa-long-arrow-alt-down"></i></a>
           </div>
@@ -341,7 +341,7 @@
               <p class="text-block__desc mb-20">Our dermatologist examines different areas of your scalp using a specialized microscopic camera. Magnified images help evaluate hair and scalp conditions.</p>
               <p class="text-block__desc mb-30">The procedure is generally painless, requires no injections, and usually involves no downtime.</p>
 
-              <h2 class="text-block__title">Book a Hair &amp; Scalp Consultation in Pune</h2>
+              <h2 class="text-block__title">Book a Hair &amp; Scalp Consultation</h2>
               <p class="text-block__desc mb-20">Experiencing excessive hair fall, thinning hair, or scalp concerns? Visit Skin City India for a detailed hair and scalp assessment.</p>
               <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank"
                 class="btn btn__primary btn__rounded">Book an Appointment Today!</a>
@@ -398,10 +398,11 @@
                   </div>
                   <h4 class="widget__title text-center">Our Centers</h4>
                   <ul class="time__list list-unstyled mb-0 text-center">
-                    <li style="text-align: center;"><span>camp,Pune</span></li>
-                    <li style="text-align: center;"><span>New Mumbai</span></li>
-                    <li style="text-align: center;"><span>Belapur</span></li>
-                    <li style="text-align: center;"><span>Aundh</span></li>
+                    <li style="text-align: center;"><span>Solapur</span></li>
+                    <li style="text-align: center;"><span>Pune Camp</span></li>
+                    <li style="text-align: center;"><span>Pune Aundh</span></li>
+                    <li style="text-align: center;"><span>Navi Mumbai Belapur</span></li>
+                    <li style="text-align: center;"><span>Chhatrapati Sambhajinagar</span></li>
                   </ul>
                 </div><!-- /.widget-content -->
               </div><!-- /.widget-schedule -->

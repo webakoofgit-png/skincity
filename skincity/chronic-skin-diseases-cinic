@@ -16,11 +16,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
     <link href="assets/images/about/favicon.svg" rel="icon">
-    <title>Chronic Skin Disease Treatment in Pune | Skin City</title>
+    <title>Chronic Skin Disease Treatment | Skin City</title>
     <meta property="og:image" content="https://skincityindia.in/assets/images/services/previewchronic.png" loading="lazy" />
-    <meta property="og:title" content="Chronic Skin Disease Treatment in Pune | Skin City">
+    <meta property="og:title" content="Chronic Skin Disease Treatment | Skin City">
     <meta name="description"
-        content="Get expert care for chronic skin diseases in Pune at Skin City India. Dermatology consultations for psoriasis, eczema, vitiligo and recurring skin conditions." />
+        content="Get expert care for chronic skin diseases at Skin City India. Dermatology consultations for psoriasis, eczema, vitiligo and recurring skin conditions." />
     <meta property="og:url" content="https://skincityindia.in/chronic-skin-diseases-cinic" />
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap">
@@ -303,7 +303,7 @@
                 <div class="row">
                     <div class="col-sm-12 col-md-12 col-lg-12 col-xl-8 offset-xl-2">
                         <img src="assets/images/services/circle-16.png" alt="" loading="lazy" width="150px" height="150px">
-                        <h1 class="pagetitle__heading">Chronic Skin Disease Treatment in Pune</h1>
+                        <h1 class="pagetitle__heading">Chronic Skin Disease Treatment</h1>
 
                         <a href="#content" class="scroll-down"><i class="fas fa-long-arrow-alt-down"></i></a>
                     </div>
@@ -345,7 +345,7 @@
                                 dermatologists may recommend creams, medicines, light-based therapies, or skin-care
                                 guidance, with follow-ups as needed.</p>
 
-                            <h2 class="text-block__title">Consult a Skin Specialist in Pune</h2>
+                            <h2 class="text-block__title">Consult a Skin Specialist</h2>
                             <p class="text-block__desc mb-20">Visit Skin City India for advice on managing recurring
                                 skin concerns.</p>
                             <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank"
@@ -406,10 +406,11 @@
                                     </div>
                                     <h4 class="widget__title text-center">Our Centers</h4>
                                     <ul class="time__list list-unstyled mb-0 text-center">
-                                        <li style="text-align: center;"><span>camp,Pune</span></li>
-                                        <li style="text-align: center;"><span>New Mumbai</span></li>
-                                        <li style="text-align: center;"><span>Belapur</span></li>
-                                        <li style="text-align: center;"><span>Aundh</span></li>
+                                        <li style="text-align: center;"><span>Solapur</span></li>
+                                        <li style="text-align: center;"><span>Pune Camp</span></li>
+                                        <li style="text-align: center;"><span>Pune Aundh</span></li>
+                                        <li style="text-align: center;"><span>Navi Mumbai Belapur</span></li>
+                                        <li style="text-align: center;"><span>Chhatrapati Sambhajinagar</span></li>
                                     </ul>
                                 </div>
                             </div>

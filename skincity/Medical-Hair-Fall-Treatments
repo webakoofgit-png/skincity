@@ -16,11 +16,11 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
   <link href="assets/images/about/favicon.svg" rel="icon">
-  <title>Medical Hair Fall Treatment in Pune | Skin City India</title>
+  <title>Medical Hair Fall Treatment | Skin City India</title>
   <meta property="og:image" content="https://skincityindia.in/assets/images/services/previewhairfall.png" loading="lazy" />
-  <meta property="og:title" content="Medical Hair Fall Treatment in Pune | Skin City India">
+  <meta property="og:title" content="Medical Hair Fall Treatment | Skin City India">
   <meta name="description"
-    content="Explore medical hair fall treatment in Pune at Skin City India. Get personalized care for hair thinning, hair loss and scalp concerns." />
+    content="Explore medical hair fall treatment at Skin City India. Get personalized care for hair thinning, hair loss and scalp concerns." />
   <meta property="og:url" content="https://skincityindia.in/Medical-Hair-Fall-Treatments" />
   <link rel="stylesheet"
     href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap">
@@ -303,7 +303,7 @@
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-12 col-xl-8 offset-xl-2">
             <img src="assets/images/services/circle-8.png" alt="" loading="lazy" width="150px" height="150px">
-            <h1 class="pagetitle__heading">Medical Hair Fall Treatment in Pune</h1>
+            <h1 class="pagetitle__heading">Medical Hair Fall Treatment</h1>
 
             <a href="#content" class="scroll-down"><i class="fas fa-long-arrow-alt-down"></i></a>
           </div>
@@ -351,7 +351,7 @@
                 and follow-up care.</p>
               <p class="text-block__desc mb-30">Results vary depending on the type and severity of hair loss.</p>
 
-              <h2 class="text-block__title">Consult a Hair Fall Specialist in Pune</h2>
+              <h2 class="text-block__title">Consult a Hair Fall Specialist</h2>
               <p class="text-block__desc mb-20">Experiencing excessive hair fall or thinning hair? Visit
                 <strong>Skin City India</strong> for professional scalp evaluation and personalized hair loss treatment guidance.</p>
               <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank"
@@ -409,10 +409,11 @@
                   </div>
                   <h4 class="widget__title text-center">Our Centers</h4>
                   <ul class="time__list list-unstyled mb-0 text-center">
-                    <li style="text-align: center;"><span>camp,Pune</span></li>
-                    <li style="text-align: center;"><span>New Mumbai</span></li>
-                    <li style="text-align: center;"><span>Belapur</span></li>
-                    <li style="text-align: center;"><span>Aundh</span></li>
+                    <li style="text-align: center;"><span>Solapur</span></li>
+                    <li style="text-align: center;"><span>Pune Camp</span></li>
+                    <li style="text-align: center;"><span>Pune Aundh</span></li>
+                    <li style="text-align: center;"><span>Navi Mumbai Belapur</span></li>
+                    <li style="text-align: center;"><span>Chhatrapati Sambhajinagar</span></li>
                   </ul>
                 </div><!-- /.widget-content -->
               </div><!-- /.widget-schedule -->

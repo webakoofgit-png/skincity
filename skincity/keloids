@@ -302,7 +302,7 @@
                 <div class="row">
                     <div class="col-sm-12 col-md-12 col-lg-12 col-xl-8 offset-xl-2">
                         <img src="assets/images/services/circle-2.png" alt="" loading="lazy" width="150px" height="150px">
-                        <h1 class="pagetitle__heading">Keloid Treatment in Pune</h1>
+                        <h1 class="pagetitle__heading">Keloid Treatment</h1>
                         
                         <a href="#content" class="scroll-down"><i class="fas fa-long-arrow-alt-down"></i></a>
                     </div><!-- /.col-xl-8 -->
@@ -342,7 +342,7 @@
                             <p class="text-block__desc mb-20">Our dermatologists examine the keloid's size, location and medical history before recommending treatment.</p>
                             <p class="text-block__desc mb-30">Multiple sessions may be required. Treatment can improve the appearance of keloids, but recurrence is possible.</p>
 
-                            <h2 class="text-block__title">Consult a Keloid Specialist in Pune</h2>
+                            <h2 class="text-block__title">Consult a Keloid Specialist</h2>
                             <p class="text-block__desc mb-20">Experiencing raised, itchy or uncomfortable scars? Visit <strong>Skin City India</strong> for professional scar assessment and personalized treatment guidance.</p>
                             <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank" class="btn btn__primary btn__rounded">Book an Appointment Today!</a>
                         </div><!-- /.text-block -->
@@ -392,10 +392,11 @@
                                     </div>
                                     <h4 class="widget__title text-center">Our Centers</h4>
                                     <ul class="time__list list-unstyled mb-0 text-center">
-                                        <li style="text-align: center;"><span>camp,Pune</span></li>
-                                        <li style="text-align: center;"><span>New Mumbai</span></li>
-                                        <li style="text-align: center;"><span>Belapur</span></li>
-                                        <li style="text-align: center;"><span>Aundh</span></li>
+                                        <li style="text-align: center;"><span>Solapur</span></li>
+                                        <li style="text-align: center;"><span>Pune Camp</span></li>
+                                        <li style="text-align: center;"><span>Pune Aundh</span></li>
+                                        <li style="text-align: center;"><span>Navi Mumbai Belapur</span></li>
+                                        <li style="text-align: center;"><span>Chhatrapati Sambhajinagar</span></li>
                                     </ul>
                                 </div><!-- /.widget-content -->
                             </div><!-- /.widget-schedule -->
