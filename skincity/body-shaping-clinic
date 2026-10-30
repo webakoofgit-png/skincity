@@ -16,12 +16,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
     <link href="assets/images/about/favicon.svg" rel="icon">
-    <title>Body Shaping Clinic</title>
-    <meta property="og:image" content="https://skincityindia.in/assets/images/services/previewsweat.png" loading="lazy" />
-    <meta property="og:title" content="Body Shaping Clinic">
-    <meta name="description"
-        content="Slimming refers to generalized weight reduction while shaping refers to reduction of fat from certain body areas. " />
-    <meta property="og:url" content="https://skincityindia.in/body-shaping-clinic" />
+    <title>Body Shaping Clinic | Skin City India</title>
+    <meta property="og:image" content="https://skincityindia.in/assets/images/services/medical.png">
+    <meta property="og:title" content="Body Shaping Clinic | Skin City India">
+    <meta name="description" content="Body contouring targets selected areas of fat or skin laxity. It is different from weight-loss treatment. Surgical and non-surgical options have different indications and risks.">
+    <meta property="og:url" content="https://skincityindia.in/body-shaping-clinic">
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css">
@@ -34,10 +33,10 @@
 
 <body>
     <div class="wrapper">
-      
+
 
         <header class="header header-layout1">
-  
+
             <div class="header-topbar">
                 <div class="container-fluid">
                     <div class="row align-items-center">
@@ -45,7 +44,7 @@
                             <div class="d-flex align-items-center justify-content-between">
                                 <ul class="contact__list d-flex flex-wrap align-items-center list-unstyled mb-0 text-center"
                                     style="margin-top: 20px;">
-    
+
                                     <li>
                                         <i class="icon-phone"></i><a href="tel:+91 9890225577">+91 9890225577</a> / <a href="tel:+919422458130">+91 9422458130</a>
                                     </li>
@@ -54,7 +53,7 @@
                                             Road, Opposite
                                             Commissioner Office, Maharashtra 411001</a>
                                     </li>
-    
+
                                 </ul>
                                 <div class="d-flex" style="margin-top: 10px;">
                                     <ul class="social-icons list-unstyled mb-0 mr-30">
@@ -81,7 +80,7 @@
                 <div class="container-fluid">
                     <a class="navbar-brand" href="/">
                         <img src="assets/images/logo/logo.svg" class="" alt="Skin City India" loading="lazy" width="160px" height="80px">
-    
+
                     </a>
                     <button class="navbar-toggler" type="button">
                         <span class="menu-lines"><span></span></span>
@@ -93,11 +92,12 @@
                             </li>
                             <li class="nav__item has-dropdown">
                                 <a href="about" class="nav__item-link ">About</a>
-    
+
                             </li>
                             <li class="nav__item has-dropdown">
                                 <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link">Treatments</a>
                                 <ul class="dropdown-menu">
+<li class="nav__item"><a href="/treatments" class="nav__item-link">All Treatments</a></li>
                                     <li class=" nav__item has-dropdown">
                                         <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link"
                                             style="font-weight: bold;">Skin</a>
@@ -112,20 +112,20 @@
                                                     style="font-weight: bold;">Chronic
                                                     Skin Disease</a>
                                             </li>
-    
+
                                         </ul>
                                     </li>
                                     <li class="nav__item">
                                         <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link"
                                             style="font-weight: bold;">Hair</a>
                                         <ul style="list-style: none;">
-    
+
                                             <li class="nav__item">
                                                 <a href="hair-transplant" class="nav__item-link"
                                                     style="font-weight: bold;">Hair
                                                     Transplantation</a>
                                             </li>
-                                           
+
                                             <li class="nav__item">
                                                 <a href="Medical-Hair-Fall-Treatments" class="nav__item-link"
                                                     style="font-weight: bold;">Medical
@@ -133,8 +133,7 @@
                                             </li>
                                             <li class="nav__item">
                                                 <a href="pain-free-mesotherapy" class="nav__item-link"
-                                                    style="font-weight: bold;">Pain Free
-                                                    Mesotherapy</a>
+                                                    style="font-weight: bold;">Scalp Mesotherapy</a>
                                             </li>
                                             <li class="nav__item">
                                                 <a href="microscopic-hair-analysis" class="nav__item-link"
@@ -168,7 +167,7 @@
                                     class="dropdown-toggle nav__item-link ">Superspeciality
                                     Dermatology</a>
                                 <ul class="dropdown-menu">
-    
+
                                     <li class="nav__item">
                                         <a href="hyperhydrosis-clinic" class="nav__item-link"
                                             style="font-weight: bold;">Hyperhydrosis
@@ -203,12 +202,12 @@
                                     </li>
                                 </ul>
                             </li>
-    
+
                             <li class="nav__item has-dropdown">
                                 <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link ">Cosmetic
                                     Dermatology</a>
                                 <ul class="dropdown-menu">
-    
+
                                     <li class="nav__item">
                                         <a href="body-shaping-clinic" class="nav__item-link"
                                             style="font-weight: bold;">Body Shaping
@@ -232,19 +231,19 @@
                                         <a href="Moles-And-Skin-Tag-Removal" class="nav__item-link"
                                             style="font-weight: bold;">Moles And
                                             Skin Tag Removal
-    
+
                                         </a>
                                     </li>
                                     <li class="nav__item">
                                         <a href="Beautiful-Bride" class="nav__item-link"
                                             style="font-weight: bold;">Beautiful Bride
-    
+
                                         </a>
                                     </li>
                                     <li class="nav__item">
                                         <a href="dark-circle" class="nav__item-link" style="font-weight: bold;">Dark
                                             Circles
-    
+
                                         </a>
                                     </li>
                                 </ul>
@@ -252,11 +251,11 @@
                             <li class="nav__item">
                                 <a href="success-stories" class="nav__item-link  active">Success Stories</a>
                             </li>
-    
-    
+
+
                             <li class="nav__item">
-    
-    
+
+
                                 <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank"
                                     class="btn btn__primary btn__rounded ml-25" style="margin-top: 10px;">
                                     <i class="icon-calendar"></i>
@@ -266,7 +265,7 @@
                         </ul>
                         <button class="close-mobile-menu d-block d-lg-none"><i class="fas fa-times"></i></button>
                     </div>
-    
+
                 </div>
             </nav>
         </header>
@@ -304,239 +303,53 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 col-md-12 col-lg-8">
-                        <div class="text-block mb-50">
+                        <article class="text-block mb-50 treatment-detail">
+    <img class="treatment-detail__image" src="/assets/images/services/medical.png" alt="Body Shaping Clinic" decoding="async">
+    <h1 class="text-block__title">Body Shaping Clinic</h1>
+    <p class="text-block__desc mb-30">Body contouring targets selected areas of fat or skin laxity. It is different from weight-loss treatment. Surgical and non-surgical options have different indications and risks.</p>
 
-                            <div class="video-banner-layout3 bg-overlay mb-50" style="text-align: justify;">
-                                <img src="assets/images/services/medical.png" alt="Medical body shaping treatment" loading="lazy">
-                                <!--  -->
-                            </div><!-- /.video-banner -->
-                            <p class="text-block__desc mb-20"><b
-                                    style="color: #213360;font-size: 25px;text-align: justify;">1.Body Shaping Clinic
-                                </b><br>
-                                Slimming involves general weight reduction, while shaping targets fat reduction in
-                                specific areas. Fat cells in the body remain constant in number but change size with
-                                weight gain or loss. Destruction of fat cells results in permanent fat loss in that
-                                area. Surgical fat cell destruction is achieved through liposuction, while non-surgical
-                                methods include cryolipolysis, ultrasound cavitation, injection lipolysis, and body
-                                tightening using radio frequency or HIFU. Liposuction simultaneously achieves fat loss
-                                and collagen tightening, while treatments like cryolipolysis focus solely on fat cell
-                                destruction, with skin tightening procedures adding additional benefits. These methods
-                                offer permanent fat reduction solutions.<br>
-
-
-                            </p>
-                            
-                            <div class="video-banner-layout3 bg-overlay mb-50" style="text-align: justify;">
-                                <img src="assets/images/services/cryolipolicys.png" alt="Cryolipolysis body contouring treatment" loading="lazy">
-
-                            </div>
-                            <p class="text-block__desc mb-20"><b
-                                    style="color: #213360;font-size: 25px;text-align: justify;">2. Cryolipolysis
-
-                                </b><br>
-                                Cryolipolysis is a non-surgical fat reduction treatment that targets localized fat by
-                                cooling the treated areas to nearly -4°C, leading to fat cell destruction and body
-                                contouring. This FDA-approved method provides a safe and effective way to reduce fat
-                                without surgery. It offers permanent fat reduction results in the treated areas. The
-                                process is highly regarded for its non-invasive nature and effectiveness in contouring
-                                the body. As a confidence-boosting treatment, Cryolipolysis ensures minimal risk while
-                                achieving long-lasting results, making it a preferred choice for individuals seeking
-                                body shaping and fat reduction.<br>
-
-
-                            </p>
-                            
-                            <div class="video-banner-layout3 bg-overlay mb-50" style="text-align: justify;">
-                                <img src="assets/images/services/injection.png" alt="Injection lipolysis for localized fat reduction" loading="lazy">
-
-                            </div>
-                            <p class="text-block__desc mb-20"><b
-                                    style="color: #213360;font-size: 25px;text-align: justify;">3. Injection lipolysis
-
-
-                                </b><br>
-                                SkinCity was one of the pioneers in practicing Injection Lipolysis, now standardized as
-                                Lipodissolve with US FDA approval. This safe and effective treatment targets localized
-                                fat reduction and works well in combination with Cavitation, Ultrasound, or
-                                Cryolipolysis for enhanced results in body contouring and fat reduction.<br>
-
-
-                            </p>
-                            <div class="video-banner-layout3 bg-overlay mb-50" style="text-align: justify;">
-                                <img src="assets/images/services/laser lypolysis.png" alt="Laser lipolysis body treatment" loading="lazy">
-
-                            </div>
-                            <p class="text-block__desc mb-20"><b
-                                    style="color: #213360;font-size: 25px;text-align: justify;">4. Skin City Laser
-                                    Lipolysis
-
-
-                                </b><br>
-                                Cavitation Ultrasound combined with Cosmedico Radio Frequency is a globally accepted,
-                                non-surgical body shaping protocol. It’s designed for individuals with localized fat
-                                deposits, near-normal BMI, and controlled weight. This advanced treatment, consisting of
-                                6 to 10 sessions spaced 15 days apart, delivers lipolysis and skin firming without
-                                surgery. SkinCity pioneered the Ultrasound RF combination in India and offers this safe
-                                alternative for those ineligible for liposuction procedures.<br>
-                                Radio Frequency Body Shaping uses monopolar, unipolar, and bipolar devices to target
-                                water molecules in the collagen layers, promoting skin and tissue tightening. Sessions,
-                                typically 6-8 weeks, are effective for body shaping.<br>
-                                Body HIFU (High-Intensity Focused Ultrasound) targets deeper collagen layers (1.5-4.5
-                                mm), providing three-dimensional tissue tightening. This treatment is optimal when
-                                combined with fat cell destruction therapies, ensuring long-lasting results. Four to six
-                                fortnightly treatments are recommended for the best outcomes in body firming and
-                                contouring.
-                            </p>
-                            
-
-                            <div class="video-banner-layout3 bg-overlay mb-50" style="text-align: justify;">
-                                <img src="assets/images/services/fat transfer.png" alt="Fat transfer treatment" loading="lazy">
-
-                            </div>
-                            <p class="text-block__desc mb-20"><b
-                                    style="color: #213360;font-size: 25px;text-align: justify;">5. Fat Transfer
-
-
-                                </b><br>
-                                Autologous fat is a natural and cost-effective filler used to enhance body contours. Fat
-                                is harvested from unwanted areas and injected into regions like scars or hollow cheeks.
-                                Since it’s the patient’s own fat, there’s no risk of allergic reactions or side effects,
-                                making it a safe procedure.
-                            </p>
-                            
-                            <div class="video-banner-layout3 bg-overlay mb-50" style="text-align: justify;">
-                                <img src="assets/images/services/liposuction.png" alt="Abdominal areas marked for liposuction" loading="lazy">
-
-                            </div>
-                            <p class="text-block__desc mb-20"><b
-                                    style="color: #213360;font-size: 25px;text-align: justify;">6. Liposuction
-
-
-                                </b><br>
-                                <b style="color: #213360;font-size: 20px;text-align: justify;">It is the ‘GOLD STANDARD’
-                                    procedure for permanent removal of skin fat</b><br>
-                                <b>Q: What is liposuction?</b><br>
-
-                                A: Liposuction is a minimally invasive procedure for the removal of stubborn fat
-                                resistant to diet and exercise. It is done by using small cannualas to give a slimmer
-                                contour to the body and face.<br>
-
-                                <b>Q: What are the indications for liposuction?</b><br>
-
-                                A: Liposuction can be performed on anyone above 18 years of age.
-
-                                It works best for stubborn localised fat deposits which are resistant to diet and
-                                exercise from areas like the tummy, love handles (flanks), buttocks, thighs, double chin
-                                and jowls<br>
-
-                                <b>Q: What is the difference between Safe Liposuction an unsafe liposuction?</b><br>
-
-                                A: Safe Liposuction is performed in a fully awake patient under tumescent local
-                                anesthesia without any sedation. Unsafe Liposuction is performed under general
-                                anesthesia, regional anesthesia or heavy sedation and combined with multiple surgeries
-                                when multiple body areas are treated together. Most liposuction complications and deaths
-                                are attributed to such unsafe practices and complications arising out of
-                                Anaesthesia.<br>
-
-                                <b>Q: What is the unique SafeLIPO protocol practiced by SkinCity?
-                                </b><br>
-                                A: Skin City SafeLIPO Is a unique protocol combining safe tumescent liposuction, laser
-                                liposuction, ultra sound lipolysis and radio frequency skin firming. This ensures
-                                guaranteed safety, permanent fat cell destruction, smooth silky skin texture and
-                                unbelievable post liposuction skin firming. The patient walks into Skin City at 10 am
-                                and walks out at 4 pm after undergoing ‘SafeLIPO’. The patient does not even need
-                                painkillers after the procedure. One can treat the entire body in multiple sessions, 1
-                                to 2 body parts are covered in each session. A conscious patient who can stand and is
-                                ambulatory, affords excellent precision to balanced fat removal. In selected patients
-                                Skin City uses this unique concept of ‘Orthostatic SafeLIPO’ which is performed with
-                                fine cannulas, while the patient is in an upright o standing position. The utmost
-                                precision attained in the shaping and the complete assurance of safety in Orthostatic
-                                SafeLIPO is commendable.
-
-                                SkinCity’s dermatologists are trained in liposuction by various international experts
-                                and is affiliated to ASDS, DASIL, ACSI, etc.<br>
-
-                                <b>Q: What is Laser SafeLIPO?</b><br>
-
-                                A: The addition of the latest 1470nm optical fiber laser has made SafeLIPO even more
-                                safe and quick. It allows more fat removal besides giving amazing post procedure skin
-                                tightening.<br>
-
-                                <b>Q: When can I join work post procedure?</b><br>
-
-                                A: You can join work the next day.<br>
-
-                                <b>Q: What is the post operative advice?
-                                </b><br>
-                                A: Withhold strenuous activities for a week and wear pressure garments for 3-6
-                                months.<br>
-
-                                <b>Q: What happens to the excess skin?
-                                </b><br>
-                                A: Skin by virtue of its elasticity undergoes contracture and adheres to underlying
-                                musculature. Liposuction can be complemented with non surgical skin tightening
-                                procedures e.g Radiofrequency.<br>
-
-                                <b>Q: Will I have any scars?</b><br>
-
-                                A: Small incisions of 3-5 mm size will be made, but the scars are usually hidden in the
-                                skin creases and will fade eventually and become undetectable.
-
-
-                            </p>
-                            
-
-                            <div class="video-banner-layout3 bg-overlay mb-50" style="text-align: justify;">
-                                <img src="assets/images/services/gym.png" alt="Gynecomastia treatment for men" loading="lazy">
-
-                            </div>
-                            <p class="text-block__desc mb-20"><b
-                                    style="color: #213360;font-size: 25px;text-align: justify;">7. Gynecomastia
-
-
-                                </b><br>
-                                Gynecomastia, or male breast enlargement, can be an embarrassing condition. It can occur
-                                due to the growth of breast tissue (true gynecomastia) or the accumulation of fat and
-                                fibrous tissue (pseudo gynecomastia). Traditionally, surgical removal of breast tissue
-                                was used, but modern techniques like fine cannula liposuction and 1470 laser fiber offer
-                                a non-invasive solution. SkinCity specializes in treating large gynecomastia without the
-                                need for excision surgery. This bloodless, stitch-less procedure provides effective
-                                results with minimal downtime, allowing patients to walk out in a few hours, making it a
-                                preferred choice for many.
-                            </p>
-                            
-
-
-
-                        </div>
-
-
-
-
-                    </div><!-- /.col-lg-8 -->
+    <h2 class="text-block__title">Potential Benefits</h2>
+    <ul class="text-block__desc pl-20 mb-30"><li class="mb-10">May improve contour in selected areas.</li><li class="mb-10">Options can be discussed for localised fat or laxity.</li><li class="mb-10">A consultation helps match expectations to a suitable procedure.</li></ul>
+    <h2 class="text-block__title">What to Expect</h2>
+    <p class="text-block__desc mb-30">Assessment covers health, weight stability and the area of concern. Options may include cryolipolysis, ultrasound or radiofrequency, injection-based treatment where appropriate, liposuction or fat transfer. Liposuction and cannula-based fat removal are invasive procedures, including when used for gynecomastia.</p>
+    <h2 class="text-block__title">Results and Considerations</h2>
+    <p class="text-block__desc mb-30">No technique guarantees safety, permanent shape or an immediate return to work. Fat freezing can rarely cause paradoxical fat growth; surgery and fat transfer have additional risks. Lipodissolve is not US FDA approved. Product and device authorisation is specific to its intended use.</p>
+    <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank" rel="noopener" class="btn btn__primary btn__rounded">Book a Consultation</a>
+  </article>
+  </div><!-- /.col-lg-8 -->
 
 
                     <div class="col-sm-12 col-md-12 col-lg-4">
                         <aside class="sidebar has-marign-left sticky-top">
-                            <div class="widget widget-services">
-                                <h5 class="widget__title text-center">Our Blogs</h5>
-                                <div class="widget-content">
-                                    <ul class="list-unstyled mb-0">
-                                        <li><a href="how-to-get -rid-of-dark-circle"><span>Dark Circle</span><i
-                                                    class="icon-arrow-right"></i></a></li>
-                                        <li><a href="how-to-get-fair-skin"><span>Fair Skin</span><i
-                                                    class="icon-arrow-right"></i></a></li>
-                                        <li><a href="how-to-get-rid-of-acne"><span>Acne</span><i
-                                                    class="icon-arrow-right"></i></a></li>
-                                        <li><a href="how-to-get-rid-of-blackheads-and-whiteheads"><span>Blackheads
-                                                </span><i class="icon-arrow-right"></i></a></li>
-                                        <li><a href="Why-Birthmark-Removal-Treatment-is-Stopped-in-Summer"><span>Birthmark
-                                                </span><i class="icon-arrow-right"></i></a></li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="widget widget-help bg-overlay bg-overlay-secondary-gradient">
+                            <div class="widget widget-services"><h2 class="widget__title">Treatments</h2><div class="widget-content"><ul class="list-unstyled mb-0 treatment-navigation"><li><a href="/baby-skin-clinic">Baby Skin Clinic</a></li>
+<li><a href="/chronic-skin-diseases-cinic">Chronic Skin Disease Clinic</a></li>
+<li><a href="/hair-transplant">Hair Transplantation</a></li>
+<li><a href="/Medical-Hair-Fall-Treatments">Medical Hair Fall Treatment</a></li>
+<li><a href="/nutritional-therapy">Nutritional Therapy</a></li>
+<li><a href="/growth-factor-therapy">Growth Factor Therapy</a></li>
+<li><a href="/pain-free-mesotherapy">Scalp Mesotherapy</a></li>
+<li><a href="/microscopic-hair-analysis">Microscopic Hair Analysis</a></li>
+<li><a href="/laser-hair-grow">Laser Hair Growth Therapy</a></li>
+<li><a href="/platelet-rich-plasma">Platelet Rich Plasma Therapy</a></li>
+<li><a href="/triple-grow-factor">Triple Growth Factor Therapy</a></li>
+<li><a href="/scalp-micro-pigmentation">Scalp Micropigmentation</a></li>
+<li><a href="/hyperhydrosis-clinic">Hyperhidrosis Clinic</a></li>
+<li><a href="/vitiligo">Vitiligo Clinic</a></li>
+<li><a href="/keloids">Keloid Clinic</a></li>
+<li><a href="/scars-removal">Scar Treatment</a></li>
+<li><a href="/birthmark">Birthmark Assessment and Treatment</a></li>
+<li><a href="/laser-tatoo-removal">Laser Tattoo Removal</a></li>
+<li><a href="/stretch-mark-removal">Stretch Mark Treatment</a></li>
+<li><a href="/body-shaping-clinic" aria-current="page">Body Shaping Clinic</a></li>
+<li><a href="/anti-aging-clinic">Anti-Aging Clinic</a></li>
+<li><a href="/nail-clinic">Nail Clinic</a></li>
+<li><a href="/Laser-Vaginal-Tightening-Clinic">Vaginal Health Consultation</a></li>
+<li><a href="/Moles-And-Skin-Tag-Removal">Mole and Skin Tag Removal</a></li>
+<li><a href="/Beautiful-Bride">Bridal Skin Consultation</a></li>
+<li><a href="/dark-circle">Dark Circle Treatment</a></li>
+<li><a href="/acne-treatment">Acne Treatment</a></li>
+<li><a href="/laser-hair-reduction">Laser Hair Reduction</a></li></ul></div></div>
+<div class="widget widget-help bg-overlay bg-overlay-secondary-gradient">
                                 <div class="bg-img"><img src="assets/images/banners/5.jpg" alt="" loading="lazy"></div>
                                 <div class="widget-content">
                                     <div class="widget__icon">
@@ -627,10 +440,10 @@
                                         <li><a href="vitiligo">Vitiligo Clinic</a></li>
                                         <li><a href="laser-tatoo-removal">Laser Tatoo Removal</a></li>
                                         <li><a href="microscopic-hair-analysis">Microscopic Hair Analysis</a></li>
-                                        <li><a href="pain-free-mesotherapy">Pain Free Mesotherapy</a></li>
+                                        <li><a href="pain-free-mesotherapy">Scalp Mesotherapy</a></li>
                                         <li><a href="laser-hair-grow">Laser Hair Grow</a></li>
                                         <li><a href="platelet-rich-plasma">Platelet Rich Plasma</a></li>
-                                        <li><a href="hair-treatments">Hair Transplant</a></li>
+                                        <li><a href="/hair-transplant">Hair Transplant</a></li>
                                         <li><a href="birthmark">Laser Birthmark Removal</a></li>
                                     </ul>
                                 </nav>

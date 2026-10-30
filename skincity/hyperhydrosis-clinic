@@ -16,13 +16,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
     <link href="assets/images/about/favicon.svg" rel="icon">
-    <title>Hyperhydrosis Clinic</title>
-    <meta property="og:image" content="https://skincityindia.in/assets/images/services/previewsweat.png"
-        loading="lazy" />
-    <meta property="og:title" content="Hyperhydrosis Clinic">
-    <meta name="description"
-        content="Sweat is produced from the eccrine glands in the skin. Laser sweat ablation is aimed at destroying the eccrine glands and then removing them." />
-    <meta property="og:url" content="https://skincityindia.in/hyperhydrosis-clinic" />
+    <title>Hyperhidrosis Clinic | Skin City India</title>
+    <meta property="og:image" content="https://skincityindia.in/assets/images/Hyperhidrosis%20clinic.png">
+    <meta property="og:title" content="Hyperhidrosis Clinic | Skin City India">
+    <meta name="description" content="Excessive sweating can affect underarms, palms or soles. Treatment depends on the area, severity and whether another condition or medicine is contributing.">
+    <meta property="og:url" content="https://skincityindia.in/hyperhydrosis-clinic">
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css">
@@ -38,7 +36,7 @@
 
 
         <header class="header header-layout1">
-  
+
             <div class="header-topbar">
                 <div class="container-fluid">
                     <div class="row align-items-center">
@@ -100,6 +98,7 @@
                             <li class="nav__item has-dropdown">
                                 <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link">Treatments</a>
                                 <ul class="dropdown-menu">
+<li class="nav__item"><a href="/treatments" class="nav__item-link">All Treatments</a></li>
                                     <li class=" nav__item has-dropdown">
                                         <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link"
                                             style="font-weight: bold;">Skin</a>
@@ -135,8 +134,7 @@
                                             </li>
                                             <li class="nav__item">
                                                 <a href="pain-free-mesotherapy" class="nav__item-link"
-                                                    style="font-weight: bold;">Pain Free
-                                                    Mesotherapy</a>
+                                                    style="font-weight: bold;">Scalp Mesotherapy</a>
                                             </li>
                                             <li class="nav__item">
                                                 <a href="microscopic-hair-analysis" class="nav__item-link"
@@ -306,213 +304,53 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 col-md-12 col-lg-8">
-                        <div class="text-block mb-50">
+                        <article class="text-block mb-50 treatment-detail">
+    <img class="treatment-detail__image" src="/assets/images/Hyperhidrosis%20clinic.png" alt="Hyperhidrosis Clinic" decoding="async">
+    <h1 class="text-block__title">Hyperhidrosis Clinic</h1>
+    <p class="text-block__desc mb-30">Excessive sweating can affect underarms, palms or soles. Treatment depends on the area, severity and whether another condition or medicine is contributing.</p>
 
-                            <div class="video-banner-layout3 bg-overlay mb-50" style="text-align: justify;">
-                                <img src="assets/images/Hyperhidrosis clinic.png" alt="Clinician administering an underarm injection for excessive sweating" loading="lazy" style="width: 100%; height: auto;">
-
-                            </div><!-- /.video-banner -->
-                            <p class="text-block__desc mb-20"><b
-                                    style="color: #213360;font-size: 25px;text-align: justify;">1. Laser Sweat Ablation
-                                </b><br>
-                                Laser Sweat Ablation (LSA) is an effective treatment for excessive underarm sweating
-                                (axillary hyperhidrosis) by targeting and destroying eccrine sweat glands with minimal
-                                skin damage. Unlike Botulinum Toxin (Botox), which offers temporary relief, LSA provides
-                                long-term results, with 70-80% success rates, improving with newer techniques. This
-                                minimally invasive procedure is performed under local tumescent anesthesia, requiring
-                                only small incisions. Compared to Endoscopic Thoracic Sympathectomy (ETS), LSA has lower
-                                risks and faster recovery. The introduction of microwave thermolysis therapy (miraDry)
-                                has further advanced non-invasive sweating treatments, reducing reliance on traditional
-                                approaches.<br>
-
-
-                            </p>
-
-                            <div class="video-banner-layout3 bg-overlay mb-50" style="text-align: justify;">
-                                <img src="assets/images/services/mira dry.png" alt="miraDry treatment for underarm sweating" loading="lazy">
-
-                            </div><!-- /.video-banner -->
-                            <p class="text-block__desc mb-20"><b
-                                    style="color: #213360;font-size: 25px;text-align: justify;">2. Mira Dry
-                                    Hyperhydrosis
-                                    Treatment
-                                </b><br>
-                                Laser Sweat Ablation (LSA) is an effective treatment for excessive underarm sweating
-                                (axillary hyperhidrosis) by targeting and destroying eccrine sweat glands with minimal
-                                skin damage. Unlike Botulinum Toxin (Botox), which offers temporary relief, LSA provides
-                                long-term results, with 70-80% success rates, improving with newer techniques. This
-                                minimally invasive procedure is performed under local tumescent anesthesia, requiring
-                                only small incisions. Compared to Endoscopic Thoracic Sympathectomy (ETS), LSA has lower
-                                risks and faster recovery. The introduction of microwave thermolysis therapy (miraDry)
-                                has further advanced non-invasive sweating treatments, reducing reliance on traditional
-                                approaches.<br>
-
-
-                            </p>
-                            <b style="color: #213360;font-size: 20px;text-align: justify;">3 EASY STEPS TO SWEAT & ODOR
-                                FREE UNDERARMS !</b><br><br>
-                            <div class="row">
-
-                                <div class="col-sm-12 col-md-6 col-lg-4">
-
-                                    <div class="post-item">
-                                        <div class="post__img">
-
-                                            <img src="assets/images/services/m-1.png" alt="Diagram of sweat glands beneath the underarm skin" loading="lazy"
-                                                style="transition: none;animation: none;transform: none;">
-
-                                        </div>
-                                        <div class="post__body">
-
-
-                                            <br>
-                                            <p class="post__desc">After your underarm has been numbed and is ready to be
-                                                treated, the clinician will place the handpiece directly on your skin,
-                                                lining up with the temporary treatment template applied to your
-                                                underarm.</p>
-
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-12 col-md-6 col-lg-4">
-
-                                    <div class="post-item">
-                                        <div class="post__img">
-
-                                            <img src="assets/images/services/m-2.png" alt="Diagram of miraDry energy targeting sweat glands" loading="lazy"
-                                                style="transition: none;animation: none;transform: none;">
-
-                                        </div>
-                                        <div class="post__body">
-
-
-                                            <br>
-                                            <p class="post__desc">Next, the handpiece is activated. You will feel a
-                                                slight suction as your skin and glands are brought closer to the surface
-                                                for maximum results.</p>
-
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-12 col-md-6 col-lg-4">
-
-                                    <div class="post-item">
-                                        <div class="post__img">
-
-                                            <img src="assets/images/services/m-3.png" alt="Diagram of underarm skin after miraDry treatment" loading="lazy"
-                                                style="transition: none;animation: none;transform: none;">
-
-                                        </div>
-                                        <div class="post__body">
-
-
-                                            <br>
-                                            <p class="post__desc">Finally, miraWaveTM energy is delivered and the sweat
-                                                and odor glands are destroyed. All the while, soothing cooling is
-                                                applied to protect your skin.</p>
-
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-                            <b style="color: #213360;font-size: 20px;text-align: justify;">miraDry is a simple treatment
-                                that can be completed in as little as one hour with 3 Quick Step Procedure.</b><br><br>
-                            <div class="row">
-
-                                <div class="col-sm-12 col-md-6 col-lg-4">
-
-                                    <div class="post-item">
-                                        <div class="post__img">
-
-                                            <img src="assets/images/services/ar-1.png" alt="Underarm skin before sweat treatment" loading="lazy"
-                                                style="transition: none;animation: none;transform: none;">
-
-                                        </div>
-                                        <div class="post__body">
-
-
-                                            <br>
-                                            <h6>Numb It</h6>
-                                            <p class="post__desc">Local anesthesia is administered to assure maximum
-                                                comfort during the treatment</p>
-
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-12 col-md-6 col-lg-4">
-
-                                    <div class="post-item">
-                                        <div class="post__img">
-
-                                            <img src="assets/images/services/ar-2.png" alt="Underarm area marked for sweat treatment" loading="lazy"
-                                                style="transition: none;animation: none;transform: none;">
-
-                                        </div>
-                                        <div class="post__body">
-
-
-                                            <br>
-                                            <h6>Mark It</h6>
-                                            <p class="post__desc">A temporary template is used to mark skin in
-                                                preparation for treatment.</p>
-
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-12 col-md-6 col-lg-4">
-
-                                    <div class="post-item">
-                                        <div class="post__img">
-
-                                            <img src="assets/images/services/ar-3.png" alt="miraDry applicator treating the underarm" loading="lazy"
-                                                style="transition: none;animation: none;transform: none;">
-
-                                        </div>
-                                        <div class="post__body">
-
-
-                                            <br>
-                                            <h6>Treat It</h6>
-                                            <p class="post__desc">The area is treated with miraDry, eliminating sweat
-                                                and odor glands in the underarm.</p>
-
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-                            
-
-                        </div>
-
-
-
-
-                    </div><!-- /.col-lg-8 -->
+    <h2 class="text-block__title">Potential Benefits</h2>
+    <ul class="text-block__desc pl-20 mb-30"><li class="mb-10">Options selected for the affected body area.</li><li class="mb-10">May reduce sweating and its effect on daily activities.</li><li class="mb-10">Follow-up to assess benefit and tolerability.</li></ul>
+    <h2 class="text-block__title">What to Expect</h2>
+    <p class="text-block__desc mb-30">Assessment comes first. Options may include antiperspirants, iontophoresis, medicines or botulinum toxin injections. The brochure lists miraDry microwave treatment for underarms and botulinum toxin for palms and soles. Microwave treatment and laser sweat ablation are different procedures.</p>
+    <h2 class="text-block__title">Results and Considerations</h2>
+    <p class="text-block__desc mb-30">Duration of benefit and side effects vary by procedure. Pain, swelling or altered sensation can occur after energy-based treatment. Underarm device treatment should not be assumed suitable for palms or soles.</p>
+    <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank" rel="noopener" class="btn btn__primary btn__rounded">Book a Consultation</a>
+  </article>
+  </div><!-- /.col-lg-8 -->
 
 
                     <div class="col-sm-12 col-md-12 col-lg-4">
                         <aside class="sidebar has-marign-left sticky-top">
-                            <div class="widget widget-services">
-                                <h5 class="widget__title text-center">Our Blogs</h5>
-                                <div class="widget-content">
-                                    <ul class="list-unstyled mb-0">
-                                        <li><a href="how-to-get -rid-of-dark-circle"><span>Dark Circle</span><i
-                                                    class="icon-arrow-right"></i></a></li>
-                                        <li><a href="how-to-get-fair-skin"><span>Fair Skin</span><i
-                                                    class="icon-arrow-right"></i></a></li>
-                                        <li><a href="how-to-get-rid-of-acne"><span>Acne</span><i
-                                                    class="icon-arrow-right"></i></a></li>
-                                        <li><a href="how-to-get-rid-of-blackheads-and-whiteheads"><span>Blackheads
-                                                </span><i class="icon-arrow-right"></i></a></li>
-                                        <li><a href="Why-Birthmark-Removal-Treatment-is-Stopped-in-Summer"><span>Birthmark
-                                                </span><i class="icon-arrow-right"></i></a></li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="widget widget-help bg-overlay bg-overlay-secondary-gradient">
+                            <div class="widget widget-services"><h2 class="widget__title">Treatments</h2><div class="widget-content"><ul class="list-unstyled mb-0 treatment-navigation"><li><a href="/baby-skin-clinic">Baby Skin Clinic</a></li>
+<li><a href="/chronic-skin-diseases-cinic">Chronic Skin Disease Clinic</a></li>
+<li><a href="/hair-transplant">Hair Transplantation</a></li>
+<li><a href="/Medical-Hair-Fall-Treatments">Medical Hair Fall Treatment</a></li>
+<li><a href="/nutritional-therapy">Nutritional Therapy</a></li>
+<li><a href="/growth-factor-therapy">Growth Factor Therapy</a></li>
+<li><a href="/pain-free-mesotherapy">Scalp Mesotherapy</a></li>
+<li><a href="/microscopic-hair-analysis">Microscopic Hair Analysis</a></li>
+<li><a href="/laser-hair-grow">Laser Hair Growth Therapy</a></li>
+<li><a href="/platelet-rich-plasma">Platelet Rich Plasma Therapy</a></li>
+<li><a href="/triple-grow-factor">Triple Growth Factor Therapy</a></li>
+<li><a href="/scalp-micro-pigmentation">Scalp Micropigmentation</a></li>
+<li><a href="/hyperhydrosis-clinic" aria-current="page">Hyperhidrosis Clinic</a></li>
+<li><a href="/vitiligo">Vitiligo Clinic</a></li>
+<li><a href="/keloids">Keloid Clinic</a></li>
+<li><a href="/scars-removal">Scar Treatment</a></li>
+<li><a href="/birthmark">Birthmark Assessment and Treatment</a></li>
+<li><a href="/laser-tatoo-removal">Laser Tattoo Removal</a></li>
+<li><a href="/stretch-mark-removal">Stretch Mark Treatment</a></li>
+<li><a href="/body-shaping-clinic">Body Shaping Clinic</a></li>
+<li><a href="/anti-aging-clinic">Anti-Aging Clinic</a></li>
+<li><a href="/nail-clinic">Nail Clinic</a></li>
+<li><a href="/Laser-Vaginal-Tightening-Clinic">Vaginal Health Consultation</a></li>
+<li><a href="/Moles-And-Skin-Tag-Removal">Mole and Skin Tag Removal</a></li>
+<li><a href="/Beautiful-Bride">Bridal Skin Consultation</a></li>
+<li><a href="/dark-circle">Dark Circle Treatment</a></li>
+<li><a href="/acne-treatment">Acne Treatment</a></li>
+<li><a href="/laser-hair-reduction">Laser Hair Reduction</a></li></ul></div></div>
+<div class="widget widget-help bg-overlay bg-overlay-secondary-gradient">
                                 <div class="bg-img"><img src="assets/images/banners/5.jpg" alt="" loading="lazy"></div>
                                 <div class="widget-content">
                                     <div class="widget__icon">
@@ -546,7 +384,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            
+
                         </aside>
                     </div>
                 </div>
@@ -598,10 +436,10 @@
                                         <li><a href="vitiligo">Vitiligo Clinic</a></li>
                                         <li><a href="laser-tatoo-removal">Laser Tatoo Removal</a></li>
                                         <li><a href="microscopic-hair-analysis">Microscopic Hair Analysis</a></li>
-                                        <li><a href="pain-free-mesotherapy">Pain Free Mesotherapy</a></li>
+                                        <li><a href="pain-free-mesotherapy">Scalp Mesotherapy</a></li>
                                         <li><a href="laser-hair-grow">Laser Hair Grow</a></li>
                                         <li><a href="platelet-rich-plasma">Platelet Rich Plasma</a></li>
-                                        <li><a href="hair-treatments">Hair Transplant</a></li>
+                                        <li><a href="/hair-transplant">Hair Transplant</a></li>
                                         <li><a href="birthmark">Laser Birthmark Removal</a></li>
                                     </ul>
                                 </nav>

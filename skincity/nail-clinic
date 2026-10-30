@@ -16,12 +16,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
     <link href="assets/images/about/favicon.svg" rel="icon">
-    <title>Nail Clinic</title>
-    <meta property="og:image" content="https://skincityindia.in/assets/images/services/previewnail.png" loading="lazy"/>
-    <meta property="og:title" content="Nail Clinic">
-    <meta name="description"
-        content="Fingernail issues such as ridges, discoloration, or unusual shapes can indicate underlying health conditions.  " />
-    <meta property="og:url" content="https://skincityindia.in/nail-clinic" />
+    <title>Nail Clinic | Skin City India</title>
+    <meta property="og:image" content="https://skincityindia.in/assets/images/services/nail%20clinic.png">
+    <meta property="og:title" content="Nail Clinic | Skin City India">
+    <meta name="description" content="Nail changes can follow infection, injury, psoriasis, lichen planus or other conditions. Diagnosis is important because similar-looking nails can need different treatment.">
+    <meta property="og:url" content="https://skincityindia.in/nail-clinic">
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css">
@@ -34,10 +33,10 @@
 
 <body>
     <div class="wrapper">
-       
+
 
         <header class="header header-layout1">
-  
+
             <div class="header-topbar">
                 <div class="container-fluid">
                     <div class="row align-items-center">
@@ -45,7 +44,7 @@
                             <div class="d-flex align-items-center justify-content-between">
                                 <ul class="contact__list d-flex flex-wrap align-items-center list-unstyled mb-0 text-center"
                                     style="margin-top: 20px;">
-    
+
                                     <li>
                                         <i class="icon-phone"></i><a href="tel:+91 9890225577">+91 9890225577</a> / <a href="tel:+919422458130">+91 9422458130</a>
                                     </li>
@@ -54,7 +53,7 @@
                                             Road, Opposite
                                             Commissioner Office, Maharashtra 411001</a>
                                     </li>
-    
+
                                 </ul>
                                 <div class="d-flex" style="margin-top: 10px;">
                                     <ul class="social-icons list-unstyled mb-0 mr-30">
@@ -81,7 +80,7 @@
                 <div class="container-fluid">
                     <a class="navbar-brand" href="/">
                         <img src="assets/images/logo/logo.svg" class="" alt="Skin City India" loading="lazy" width="160px" height="80px">
-    
+
                     </a>
                     <button class="navbar-toggler" type="button">
                         <span class="menu-lines"><span></span></span>
@@ -93,11 +92,12 @@
                             </li>
                             <li class="nav__item has-dropdown">
                                 <a href="about" class="nav__item-link ">About</a>
-    
+
                             </li>
                             <li class="nav__item has-dropdown">
                                 <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link">Treatments</a>
                                 <ul class="dropdown-menu">
+<li class="nav__item"><a href="/treatments" class="nav__item-link">All Treatments</a></li>
                                     <li class=" nav__item has-dropdown">
                                         <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link"
                                             style="font-weight: bold;">Skin</a>
@@ -112,20 +112,20 @@
                                                     style="font-weight: bold;">Chronic
                                                     Skin Disease</a>
                                             </li>
-    
+
                                         </ul>
                                     </li>
                                     <li class="nav__item">
                                         <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link"
                                             style="font-weight: bold;">Hair</a>
                                         <ul style="list-style: none;">
-    
+
                                             <li class="nav__item">
                                                 <a href="hair-transplant" class="nav__item-link"
                                                     style="font-weight: bold;">Hair
                                                     Transplantation</a>
                                             </li>
-                                           
+
                                             <li class="nav__item">
                                                 <a href="Medical-Hair-Fall-Treatments" class="nav__item-link"
                                                     style="font-weight: bold;">Medical
@@ -133,8 +133,7 @@
                                             </li>
                                             <li class="nav__item">
                                                 <a href="pain-free-mesotherapy" class="nav__item-link"
-                                                    style="font-weight: bold;">Pain Free
-                                                    Mesotherapy</a>
+                                                    style="font-weight: bold;">Scalp Mesotherapy</a>
                                             </li>
                                             <li class="nav__item">
                                                 <a href="microscopic-hair-analysis" class="nav__item-link"
@@ -168,7 +167,7 @@
                                     class="dropdown-toggle nav__item-link active">Superspeciality
                                     Dermatology</a>
                                 <ul class="dropdown-menu">
-    
+
                                     <li class="nav__item">
                                         <a href="hyperhydrosis-clinic" class="nav__item-link"
                                             style="font-weight: bold;">Hyperhydrosis
@@ -203,12 +202,12 @@
                                     </li>
                                 </ul>
                             </li>
-    
+
                             <li class="nav__item has-dropdown">
                                 <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link ">Cosmetic
                                     Dermatology</a>
                                 <ul class="dropdown-menu">
-    
+
                                     <li class="nav__item">
                                         <a href="body-shaping-clinic" class="nav__item-link"
                                             style="font-weight: bold;">Body Shaping
@@ -232,19 +231,19 @@
                                         <a href="Moles-And-Skin-Tag-Removal" class="nav__item-link"
                                             style="font-weight: bold;">Moles And
                                             Skin Tag Removal
-    
+
                                         </a>
                                     </li>
                                     <li class="nav__item">
                                         <a href="Beautiful-Bride" class="nav__item-link"
                                             style="font-weight: bold;">Beautiful Bride
-    
+
                                         </a>
                                     </li>
                                     <li class="nav__item">
                                         <a href="dark-circle" class="nav__item-link" style="font-weight: bold;">Dark
                                             Circles
-    
+
                                         </a>
                                     </li>
                                 </ul>
@@ -252,11 +251,11 @@
                             <li class="nav__item">
                                 <a href="success-stories" class="nav__item-link ">Success Stories</a>
                             </li>
-    
-    
+
+
                             <li class="nav__item">
-    
-    
+
+
                                 <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank"
                                     class="btn btn__primary btn__rounded ml-25" style="margin-top: 10px;">
                                     <i class="icon-calendar"></i>
@@ -266,7 +265,7 @@
                         </ul>
                         <button class="close-mobile-menu d-block d-lg-none"><i class="fas fa-times"></i></button>
                     </div>
-    
+
                 </div>
             </nav>
         </header>
@@ -304,61 +303,53 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 col-md-12 col-lg-8">
-                        <div class="text-block mb-50">
+                        <article class="text-block mb-50 treatment-detail">
+    <img class="treatment-detail__image" src="/assets/images/services/nail%20clinic.png" alt="Nail Clinic" decoding="async">
+    <h1 class="text-block__title">Nail Clinic</h1>
+    <p class="text-block__desc mb-30">Nail changes can follow infection, injury, psoriasis, lichen planus or other conditions. Diagnosis is important because similar-looking nails can need different treatment.</p>
 
-                            <div class="video-banner-layout3 bg-overlay mb-50" style="text-align: justify;">
-                                <img src="assets/images/services/nail clinic.png" alt="Examples of nail discoloration and nail disorders">
-
-                            </div>
-                            <p class="text-block__desc mb-20"><b
-                                    style="color: #213360;font-size: 25px;text-align: justify;">Nail Clinic
-                                </b><br>
-                                Fingernail issues such as ridges, discoloration, or unusual shapes can indicate
-                                underlying health conditions. Common nail disorders include fungal infections,
-                                psoriasis, lichen planus, paronychia, and nail trauma. Skin City offers advanced
-                                treatments like intra-matrixial injections for conditions like psoriasis and lichen
-                                planus, and laser therapy for nail fungus (onychomycosis). Laser treatments like NdYAG
-                                and Ultrapulse enhance fungal treatment effectiveness and improve penetration of topical
-                                antifungal solutions. For painful ingrown toenails, lateral nail plate avulsion with
-                                matrix destruction provides a lasting solution.
-
-
-                            </p>
-
-                           
-                            
-                            
-
-
-                        </div>
-
-
-
-
-                    </div><!-- /.col-lg-8 -->
+    <h2 class="text-block__title">Potential Benefits</h2>
+    <ul class="text-block__desc pl-20 mb-30"><li class="mb-10">Assessment of the cause of nail changes.</li><li class="mb-10">Treatment directed at infection, inflammation or an ingrown nail.</li><li class="mb-10">Follow-up as the nail grows.</li></ul>
+    <h2 class="text-block__title">What to Expect</h2>
+    <p class="text-block__desc mb-30">The dermatologist examines the nail and surrounding skin. A sample may be tested for fungus. Medicines, selected injections or a nail procedure may be discussed according to the diagnosis.</p>
+    <h2 class="text-block__title">Results and Considerations</h2>
+    <p class="text-block__desc mb-30">Nail growth is slow and improvement takes time. Laser is not an established substitute for antifungal treatment; some devices are cleared for temporary cosmetic improvement rather than curing the infection.</p>
+    <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank" rel="noopener" class="btn btn__primary btn__rounded">Book a Consultation</a>
+  </article>
+  </div><!-- /.col-lg-8 -->
 
 
                     <div class="col-sm-12 col-md-12 col-lg-4">
                         <aside class="sidebar has-marign-left sticky-top">
-                            <div class="widget widget-services">
-                                <h5 class="widget__title text-center">Our Blogs</h5>
-                                <div class="widget-content">
-                                    <ul class="list-unstyled mb-0">
-                                        <li><a href="how-to-get -rid-of-dark-circle"><span>Dark Circle</span><i
-                                                    class="icon-arrow-right"></i></a></li>
-                                        <li><a href="how-to-get-fair-skin"><span>Fair Skin</span><i
-                                                    class="icon-arrow-right"></i></a></li>
-                                        <li><a href="how-to-get-rid-of-acne"><span>Acne</span><i
-                                                    class="icon-arrow-right"></i></a></li>
-                                        <li><a href="how-to-get-rid-of-blackheads-and-whiteheads"><span>Blackheads
-                                                </span><i class="icon-arrow-right"></i></a></li>
-                                        <li><a href="Why-Birthmark-Removal-Treatment-is-Stopped-in-Summer"><span>Birthmark
-                                                </span><i class="icon-arrow-right"></i></a></li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="widget widget-help bg-overlay bg-overlay-secondary-gradient">
+                            <div class="widget widget-services"><h2 class="widget__title">Treatments</h2><div class="widget-content"><ul class="list-unstyled mb-0 treatment-navigation"><li><a href="/baby-skin-clinic">Baby Skin Clinic</a></li>
+<li><a href="/chronic-skin-diseases-cinic">Chronic Skin Disease Clinic</a></li>
+<li><a href="/hair-transplant">Hair Transplantation</a></li>
+<li><a href="/Medical-Hair-Fall-Treatments">Medical Hair Fall Treatment</a></li>
+<li><a href="/nutritional-therapy">Nutritional Therapy</a></li>
+<li><a href="/growth-factor-therapy">Growth Factor Therapy</a></li>
+<li><a href="/pain-free-mesotherapy">Scalp Mesotherapy</a></li>
+<li><a href="/microscopic-hair-analysis">Microscopic Hair Analysis</a></li>
+<li><a href="/laser-hair-grow">Laser Hair Growth Therapy</a></li>
+<li><a href="/platelet-rich-plasma">Platelet Rich Plasma Therapy</a></li>
+<li><a href="/triple-grow-factor">Triple Growth Factor Therapy</a></li>
+<li><a href="/scalp-micro-pigmentation">Scalp Micropigmentation</a></li>
+<li><a href="/hyperhydrosis-clinic">Hyperhidrosis Clinic</a></li>
+<li><a href="/vitiligo">Vitiligo Clinic</a></li>
+<li><a href="/keloids">Keloid Clinic</a></li>
+<li><a href="/scars-removal">Scar Treatment</a></li>
+<li><a href="/birthmark">Birthmark Assessment and Treatment</a></li>
+<li><a href="/laser-tatoo-removal">Laser Tattoo Removal</a></li>
+<li><a href="/stretch-mark-removal">Stretch Mark Treatment</a></li>
+<li><a href="/body-shaping-clinic">Body Shaping Clinic</a></li>
+<li><a href="/anti-aging-clinic">Anti-Aging Clinic</a></li>
+<li><a href="/nail-clinic" aria-current="page">Nail Clinic</a></li>
+<li><a href="/Laser-Vaginal-Tightening-Clinic">Vaginal Health Consultation</a></li>
+<li><a href="/Moles-And-Skin-Tag-Removal">Mole and Skin Tag Removal</a></li>
+<li><a href="/Beautiful-Bride">Bridal Skin Consultation</a></li>
+<li><a href="/dark-circle">Dark Circle Treatment</a></li>
+<li><a href="/acne-treatment">Acne Treatment</a></li>
+<li><a href="/laser-hair-reduction">Laser Hair Reduction</a></li></ul></div></div>
+<div class="widget widget-help bg-overlay bg-overlay-secondary-gradient">
                                 <div class="bg-img"><img src="assets/images/banners/5.jpg" alt=""></div>
                                 <div class="widget-content">
                                     <div class="widget__icon">
@@ -449,10 +440,10 @@
                                         <li><a href="vitiligo">Vitiligo Clinic</a></li>
                                         <li><a href="laser-tatoo-removal">Laser Tatoo Removal</a></li>
                                         <li><a href="microscopic-hair-analysis">Microscopic Hair Analysis</a></li>
-                                        <li><a href="pain-free-mesotherapy">Pain Free Mesotherapy</a></li>
+                                        <li><a href="pain-free-mesotherapy">Scalp Mesotherapy</a></li>
                                         <li><a href="laser-hair-grow">Laser Hair Grow</a></li>
                                         <li><a href="platelet-rich-plasma">Platelet Rich Plasma</a></li>
-                                        <li><a href="hair-treatments">Hair Transplant</a></li>
+                                        <li><a href="/hair-transplant">Hair Transplant</a></li>
                                         <li><a href="birthmark">Laser Birthmark Removal</a></li>
                                     </ul>
                                 </nav>

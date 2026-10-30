@@ -16,12 +16,11 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
   <link href="assets/images/about/favicon.svg" rel="icon">
-  <title>Pain Free Mesotherapy</title>
-  <meta property="og:image" content="https://skincityindia.in/assets/images/services/previewmesotherapy.png" loading="lazy" />
-  <meta property="og:title" content="Pain Free Mesotherapy">
-  <meta name="description"
-    content="Pain-Free Mesotherapy is an innovative non-invasive hair restoration technique that delivers hair growth activators, serums, and essential nutrients directly into the scalp using fine needles or needle-less skin transportation technology.  " />
-  <meta property="og:url" content="https://skincityindia.in/pain-free-mesotherapy" />
+  <title>Scalp Mesotherapy | Skin City India</title>
+  <meta property="og:image" content="https://skincityindia.in/assets/images/pain%20free%20mysotherapy.png">
+  <meta property="og:title" content="Scalp Mesotherapy | Skin City India">
+  <meta name="description" content="Scalp mesotherapy involves small injections of a selected preparation into the scalp. Products and protocols vary; it should be considered only after a diagnosis and a discussion of the proposed preparation.">
+  <meta property="og:url" content="https://skincityindia.in/pain-free-mesotherapy">
   <link rel="stylesheet"
     href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css">
@@ -34,10 +33,10 @@
 
 <body>
   <div class="wrapper">
-   
+
 
     <header class="header header-layout1">
-  
+
       <div class="header-topbar">
           <div class="container-fluid">
               <div class="row align-items-center">
@@ -98,6 +97,7 @@
                       <li class="nav__item has-dropdown">
                           <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link active">Treatments</a>
                           <ul class="dropdown-menu">
+<li class="nav__item"><a href="/treatments" class="nav__item-link">All Treatments</a></li>
                               <li class=" nav__item has-dropdown">
                                   <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link"
                                       style="font-weight: bold;">Skin</a>
@@ -125,7 +125,7 @@
                                               style="font-weight: bold;">Hair
                                               Transplantation</a>
                                       </li>
-                                     
+
                                       <li class="nav__item">
                                           <a href="Medical-Hair-Fall-Treatments" class="nav__item-link"
                                               style="font-weight: bold;">Medical
@@ -133,8 +133,7 @@
                                       </li>
                                       <li class="nav__item">
                                           <a href="pain-free-mesotherapy" class="nav__item-link"
-                                              style="font-weight: bold;">Pain Free
-                                              Mesotherapy</a>
+                                              style="font-weight: bold;">Scalp Mesotherapy</a>
                                       </li>
                                       <li class="nav__item">
                                           <a href="microscopic-hair-analysis" class="nav__item-link"
@@ -303,7 +302,7 @@
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-12 col-xl-8 offset-xl-2">
             <img src="assets/images/services/circle-9.png" alt="" loading="lazy" width="150px" height="150px">
-            <h1 class="pagetitle__heading">Pain Free Mesotherapy Treatment</h1>
+            <h1 class="pagetitle__heading">Scalp Mesotherapy</h1>
 
             <a href="#content" class="scroll-down"><i class="fas fa-long-arrow-alt-down"></i></a>
           </div>
@@ -316,71 +315,56 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-8">
-            <div class="text-block mb-50">
-
-              <div class="video-banner-layout3 bg-overlay mb-50" style="text-align: justify;">
-                <img src="assets/images/pain free mysotherapy.png" alt="Scalp mesotherapy treatment at a dermatology clinic" loading="lazy">
-                
-              </div><!-- /.video-banner -->
-              <h2 class="text-block__title">Advanced Non-Surgical Hair Fall Treatment</h2>
-              <p class="text-block__desc mb-30">Hair thinning and excessive hair fall can affect both men and women.
-                At <strong>Skin City India, Pune</strong>, we offer scalp mesotherapy as a non-surgical treatment option
-                for suitable patients experiencing hair loss.</p>
-
-              <h2 class="text-block__title">What Is Pain Free Mesotherapy?</h2>
-              <p class="text-block__desc mb-20">Mesotherapy is a procedure in which selected treatment solutions are
-                delivered into the scalp through small injections. It may be recommended as part of a personalized
-                hair fall management plan.</p>
-              <p class="text-block__desc mb-30">The procedure is designed to minimize discomfort, although individual
-                experiences may vary.</p>
-
-              <h2 class="text-block__title">Benefits of Scalp Mesotherapy</h2>
-              <ul class="text-block__desc pl-20 mb-30">
-                <li class="mb-10"><strong>Non-Surgical Procedure:</strong> Does not require hair transplantation.</li>
-                <li class="mb-10"><strong>Targeted Scalp Treatment:</strong> Delivers selected solutions to specific scalp areas.</li>
-                <li class="mb-10"><strong>Personalized Approach:</strong> Treatment is planned according to individual hair and scalp concerns.</li>
-                <li><strong>Minimal Downtime:</strong> Many patients can resume routine activities shortly after treatment.</li>
-              </ul>
-
-              <h2 class="text-block__title">How Does the Treatment Work?</h2>
-              <p class="text-block__desc mb-20">Our dermatologists examine your scalp, review your hair loss history,
-                and determine whether mesotherapy is suitable for you.</p>
-              <p class="text-block__desc mb-30">The procedure involves carefully administering selected solutions to
-                targeted scalp areas. The number of sessions and results depend on individual needs.</p>
-
-              <h2 class="text-block__title">Consult a Hair Fall Specialist</h2>
-              <p class="text-block__desc mb-20">Experiencing hair thinning or excessive hair fall? Visit
-                <strong>Skin City India</strong> for a professional scalp consultation and personalized treatment guidance.</p>
-              <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank"
-                class="btn btn__primary btn__rounded">Book an Appointment Today!</a>
-
-            </div>
-
-
-
-
-
-
-          </div><!-- /.col-lg-8 -->
+            <article class="text-block mb-50 treatment-detail">
+ <img class="treatment-detail__image" src="/assets/images/pain%20free%20mysotherapy.png" alt="Scalp Mesotherapy" decoding="async">
+ <h2 class="text-block__title">About Scalp Mesotherapy</h2>
+ <p class="text-block__desc mb-30">Scalp mesotherapy is a non-surgical procedure involving small injections of a selected preparation into the scalp. It may be considered for certain hair-loss concerns after a dermatologist?s assessment. Evidence and results vary with the formulation and diagnosis.</p>
+ <h2 class="text-block__title">How the Procedure Works</h2>
+ <p class="text-block__desc mb-30">Your dermatologist reviews your scalp and medical history, explains the preparation and administers it to selected areas. Ingredients, session length and treatment frequency depend on the actual protocol. There is no single standard course for everyone.</p>
+ <h2 class="text-block__title">Care and Results</h2>
+ <p class="text-block__desc mb-20">Follow the clinic?s preparation and aftercare instructions. Tell the clinician about medicines and allergies. Do not stop prescribed blood thinners without advice from the prescribing clinician.</p>
+ <p class="text-block__desc mb-30">Discomfort, redness, swelling, bruising, allergic reactions or infection are possible. Report unexpected shedding or worsening symptoms rather than assuming they indicate new growth. Improvement and maintenance needs vary; regrowth is not guaranteed.</p>
+ <h2 class="text-block__title">Other Hair Clinic Treatments</h2>
+ <ul class="text-block__desc treatment-options pl-20 mb-30">
+  <li class="mb-10"><a href="/growth-factor-therapy">Growth Factor Therapy</a></li>
+  <li class="mb-10"><a href="/triple-grow-factor">Triple Growth Factor Therapy</a></li>
+  <li class="mb-10"><a href="/laser-hair-grow">Laser Hair Growth Therapy</a></li>
+  <li><a href="/hair-transplant">Bio-FUE Hair Transplantation</a></li>
+ </ul>
+ <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank" rel="noopener" class="btn btn__primary btn__rounded">Book a Consultation</a>
+</article>
+  </div><!-- /.col-lg-8 -->
           <div class="col-sm-12 col-md-12 col-lg-4">
             <aside class="sidebar has-marign-left sticky-top">
-              <div class="widget widget-services">
-                <h5 class="widget__title text-center">Our Blogs</h5>
-                <div class="widget-content">
-                  <ul class="list-unstyled mb-0">
-                    <li><a href="how-to-get -rid-of-dark-circle"><span>Dark Circle</span><i
-                          class="icon-arrow-right"></i></a></li>
-                    <li><a href="how-to-get-fair-skin"><span>Fair Skin</span><i class="icon-arrow-right"></i></a></li>
-                    <li><a href="how-to-get-rid-of-acne"><span>Acne</span><i class="icon-arrow-right"></i></a></li>
-                    <li><a href="how-to-get-rid-of-blackheads-and-whiteheads"><span>Blackheads
-                        </span><i class="icon-arrow-right"></i></a></li>
-                    <li><a href="Why-Birthmark-Removal-Treatment-is-Stopped-in-Summer"><span>Birthmark
-                        </span><i class="icon-arrow-right"></i></a></li>
-
-                  </ul>
-                </div>
-              </div>
-              <div class="widget widget-help bg-overlay bg-overlay-secondary-gradient">
+              <div class="widget widget-services"><h2 class="widget__title">Treatments</h2><div class="widget-content"><ul class="list-unstyled mb-0 treatment-navigation"><li><a href="/baby-skin-clinic">Baby Skin Clinic</a></li>
+<li><a href="/chronic-skin-diseases-cinic">Chronic Skin Disease Clinic</a></li>
+<li><a href="/hair-transplant">Hair Transplantation</a></li>
+<li><a href="/Medical-Hair-Fall-Treatments">Medical Hair Fall Treatment</a></li>
+<li><a href="/nutritional-therapy">Nutritional Therapy</a></li>
+<li><a href="/growth-factor-therapy">Growth Factor Therapy</a></li>
+<li><a href="/pain-free-mesotherapy" aria-current="page">Scalp Mesotherapy</a></li>
+<li><a href="/microscopic-hair-analysis">Microscopic Hair Analysis</a></li>
+<li><a href="/laser-hair-grow">Laser Hair Growth Therapy</a></li>
+<li><a href="/platelet-rich-plasma">Platelet Rich Plasma Therapy</a></li>
+<li><a href="/triple-grow-factor">Triple Growth Factor Therapy</a></li>
+<li><a href="/scalp-micro-pigmentation">Scalp Micropigmentation</a></li>
+<li><a href="/hyperhydrosis-clinic">Hyperhidrosis Clinic</a></li>
+<li><a href="/vitiligo">Vitiligo Clinic</a></li>
+<li><a href="/keloids">Keloid Clinic</a></li>
+<li><a href="/scars-removal">Scar Treatment</a></li>
+<li><a href="/birthmark">Birthmark Assessment and Treatment</a></li>
+<li><a href="/laser-tatoo-removal">Laser Tattoo Removal</a></li>
+<li><a href="/stretch-mark-removal">Stretch Mark Treatment</a></li>
+<li><a href="/body-shaping-clinic">Body Shaping Clinic</a></li>
+<li><a href="/anti-aging-clinic">Anti-Aging Clinic</a></li>
+<li><a href="/nail-clinic">Nail Clinic</a></li>
+<li><a href="/Laser-Vaginal-Tightening-Clinic">Vaginal Health Consultation</a></li>
+<li><a href="/Moles-And-Skin-Tag-Removal">Mole and Skin Tag Removal</a></li>
+<li><a href="/Beautiful-Bride">Bridal Skin Consultation</a></li>
+<li><a href="/dark-circle">Dark Circle Treatment</a></li>
+<li><a href="/acne-treatment">Acne Treatment</a></li>
+<li><a href="/laser-hair-reduction">Laser Hair Reduction</a></li></ul></div></div>
+<div class="widget widget-help bg-overlay bg-overlay-secondary-gradient">
                 <div class="bg-img"><img src="assets/images/banners/5.jpg" alt="" loading="lazy"></div>
                 <div class="widget-content">
                   <div class="widget__icon">
@@ -437,7 +421,7 @@
                 </a>
               </div>
             </div>
-  
+
             <div class="col-sm-12 col-md-12 col-lg-2">
               <div class="footer-widget-nav">
                 <h6 class="footer-widget__title">Links</h6>
@@ -447,11 +431,11 @@
                     <li><a href="about">About</a></li>
                     <li><a href="Blog">Blog</a></li>
                     <li><a href="Contact">Contacts</a></li>
-  
-  
+
+
                   </ul>
                 </nav>
-  
+
               </div>
             </div>
             <div class="col-sm-6 col-md-6 col-lg-3  ">
@@ -464,10 +448,10 @@
                     <li><a href="vitiligo">Vitiligo Clinic</a></li>
                     <li><a href="laser-tatoo-removal">Laser Tatoo Removal</a></li>
                     <li><a href="microscopic-hair-analysis">Microscopic Hair Analysis</a></li>
-                    <li><a href="pain-free-mesotherapy">Pain Free Mesotherapy</a></li>
+                    <li><a href="pain-free-mesotherapy">Scalp Mesotherapy</a></li>
                     <li><a href="laser-hair-grow">Laser Hair Grow</a></li>
                     <li><a href="platelet-rich-plasma">Platelet Rich Plasma</a></li>
-                    <li><a href="hair-treatments">Hair Transplant</a></li>
+                    <li><a href="/hair-transplant">Hair Transplant</a></li>
                     <li><a href="birthmark">Laser Birthmark Removal</a></li>
                   </ul>
                 </nav>
@@ -489,7 +473,7 @@
                     Commissioner Office, Camp, Pune, Maharashtra 411001</li>
                 </ul>
                 <div class="d-flex align-items-center">
-  
+
                   <ul class="social-icons list-unstyled mb-0">
                     <li><a href="https://www.facebook.com/DhepesSkinCity" target="_blank"><i
                           class="fab fa-facebook-f"></i></a></li>
@@ -514,7 +498,7 @@
               <span class="fz-14"> Distributed by</span>
               <a class="fz-14 color-primary" href="https://webakoof.com" target="_blank">Webakoof</a>
             </div>
-  
+
           </div>
         </div>
       </div>

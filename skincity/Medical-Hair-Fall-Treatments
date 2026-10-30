@@ -17,11 +17,10 @@
 
   <link href="assets/images/about/favicon.svg" rel="icon">
   <title>Medical Hair Fall Treatment | Skin City India</title>
-  <meta property="og:image" content="https://skincityindia.in/assets/images/services/previewhairfall.png" loading="lazy" />
+  <meta property="og:image" content="https://skincityindia.in/assets/images/hair%20fall%20treatment.png">
   <meta property="og:title" content="Medical Hair Fall Treatment | Skin City India">
-  <meta name="description"
-    content="Explore medical hair fall treatment at Skin City India. Get personalized care for hair thinning, hair loss and scalp concerns." />
-  <meta property="og:url" content="https://skincityindia.in/Medical-Hair-Fall-Treatments" />
+  <meta name="description" content="Hair fall may relate to inherited patterns, illness, medicines, nutritional deficiencies or scalp disease. Medical treatment starts with identifying the likely cause.">
+  <meta property="og:url" content="https://skincityindia.in/Medical-Hair-Fall-Treatments">
   <link rel="stylesheet"
     href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css">
@@ -34,10 +33,10 @@
 
 <body>
   <div class="wrapper">
-  
+
 
     <header class="header header-layout1">
-  
+
       <div class="header-topbar">
           <div class="container-fluid">
               <div class="row align-items-center">
@@ -98,6 +97,7 @@
                       <li class="nav__item has-dropdown">
                           <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link active">Treatments</a>
                           <ul class="dropdown-menu">
+<li class="nav__item"><a href="/treatments" class="nav__item-link">All Treatments</a></li>
                               <li class=" nav__item has-dropdown">
                                   <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link"
                                       style="font-weight: bold;">Skin</a>
@@ -125,7 +125,7 @@
                                               style="font-weight: bold;">Hair
                                               Transplantation</a>
                                       </li>
-                                     
+
                                       <li class="nav__item">
                                           <a href="Medical-Hair-Fall-Treatments" class="nav__item-link"
                                               style="font-weight: bold;">Medical
@@ -133,8 +133,7 @@
                                       </li>
                                       <li class="nav__item">
                                           <a href="pain-free-mesotherapy" class="nav__item-link"
-                                              style="font-weight: bold;">Pain Free
-                                              Mesotherapy</a>
+                                              style="font-weight: bold;">Scalp Mesotherapy</a>
                                       </li>
                                       <li class="nav__item">
                                           <a href="microscopic-hair-analysis" class="nav__item-link"
@@ -316,74 +315,51 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-8">
-            <div class="text-block mb-50">
-
-              <div class="video-banner-layout3 bg-overlay mb-50" style="text-align: justify;">
-                <img src="assets/images/hair fall treatment.png" alt="Clinician examining a woman's scalp for hair thinning" loading="lazy">
-                
-                
-              </div><!-- /.video-banner -->
-              <h2 class="text-block__title">Personalized Solutions for Hair Loss &amp; Thinning</h2>
-              <p class="text-block__desc mb-20">Hair fall can affect both men and women due to genetics, stress,
-                hormonal changes, nutritional deficiencies, or scalp conditions.</p>
-              <p class="text-block__desc mb-30">At <strong>Skin City India, Pune</strong>, our dermatologists evaluate
-                the possible causes of hair loss and recommend personalized, non-surgical treatment options to help
-                manage hair fall and support scalp health.</p>
-
-              <h2 class="text-block__title">What Is Medical Hair Fall Treatment?</h2>
-              <p class="text-block__desc mb-20">Medical hair fall treatment focuses on identifying the underlying
-                cause of hair loss and managing it through suitable medications, nutritional guidance, and non-surgical therapies.</p>
-              <p class="text-block__desc mb-30">The treatment approach depends on your scalp condition, hair loss
-                pattern, and medical history.</p>
-
-              <h2 class="text-block__title">Hair Fall Treatment Options at Skin City India</h2>
-              <ul class="text-block__desc pl-20 mb-30">
-                <li class="mb-10"><strong>Nutritional Therapy:</strong> Helps address diagnosed nutritional deficiencies that may contribute to hair fall.</li>
-                <li class="mb-10"><strong>Mesotherapy:</strong> A scalp treatment involving the application or delivery of selected substances, depending on the treatment protocol.</li>
-                <li class="mb-10"><strong>Growth Factor Therapy:</strong> A clinic-listed treatment option that may be considered for suitable patients.</li>
-                <li class="mb-10"><strong>Triple Growth Factor Therapy:</strong> A specialized hair treatment protocol offered by Skin City India.</li>
-                <li><strong>Laser Hair Growth Therapy:</strong> Uses light-based technology as a non-surgical option for certain types of hair loss.</li>
-              </ul>
-
-              <h2 class="text-block__title">How Does the Treatment Work?</h2>
-              <p class="text-block__desc mb-20">Our dermatologists assess your scalp, hair density, medical history,
-                and possible causes of hair fall. Based on the findings, they recommend suitable treatment options
-                and follow-up care.</p>
-              <p class="text-block__desc mb-30">Results vary depending on the type and severity of hair loss.</p>
-
-              <h2 class="text-block__title">Consult a Hair Fall Specialist</h2>
-              <p class="text-block__desc mb-20">Experiencing excessive hair fall or thinning hair? Visit
-                <strong>Skin City India</strong> for professional scalp evaluation and personalized hair loss treatment guidance.</p>
-              <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank"
-                class="btn btn__primary btn__rounded">Book an Appointment Today!</a>
-
-            </div><!-- /.text-block -->
-
-
-
-
-
-
-          </div><!-- /.col-lg-8 -->
+            <article class="text-block mb-50 treatment-detail">
+    <img class="treatment-detail__image" src="/assets/images/hair%20fall%20treatment.png" alt="Medical Hair Fall Treatment" decoding="async">
+    <h2 class="text-block__title">About Medical Hair Fall Treatment</h2>
+    <p class="text-block__desc mb-30">Hair fall may relate to inherited patterns, illness, medicines, nutritional deficiencies or scalp disease. Medical treatment starts with identifying the likely cause.</p>
+    <h2>Hair Fall Treatment Options</h2><ul class="treatment-options"><li><a href="/nutritional-therapy">Nutritional Therapy</a></li><li><a href="/pain-free-mesotherapy">Scalp Mesotherapy</a></li><li><a href="/growth-factor-therapy">Growth Factor Therapy</a></li><li><a href="/triple-grow-factor">Triple Growth Factor Therapy</a></li><li><a href="/laser-hair-grow">Laser Hair Growth Therapy</a></li></ul>
+    <h2 class="text-block__title">Potential Benefits</h2>
+    <ul class="text-block__desc pl-20 mb-30"><li class="mb-10">Diagnosis-led treatment planning.</li><li class="mb-10">Review of contributing scalp and health concerns.</li><li class="mb-10">Follow-up to assess changes and adjust care.</li></ul>
+    <h2 class="text-block__title">What to Expect</h2>
+    <p class="text-block__desc mb-30">The dermatologist reviews the scalp, shedding history and medical history. Tests are requested when indicated. Medicines, nutritional care or procedures are considered according to the diagnosis.</p>
+    <h2 class="text-block__title">Results and Considerations</h2>
+    <p class="text-block__desc mb-30">Not every person needs supplements or a procedure. Improvement and maintenance needs depend on the diagnosis.</p>
+    <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank" rel="noopener" class="btn btn__primary btn__rounded">Book a Consultation</a>
+  </article>
+  </div><!-- /.col-lg-8 -->
           <div class="col-sm-12 col-md-12 col-lg-4">
             <aside class="sidebar has-marign-left sticky-top">
-              <div class="widget widget-services">
-                <h5 class="widget__title text-center">Our Blogs</h5>
-                <div class="widget-content">
-                  <ul class="list-unstyled mb-0">
-                    <li><a href="how-to-get -rid-of-dark-circle"><span>Dark Circle</span><i
-                          class="icon-arrow-right"></i></a></li>
-                    <li><a href="how-to-get-fair-skin"><span>Fair Skin</span><i class="icon-arrow-right"></i></a></li>
-                    <li><a href="how-to-get-rid-of-acne"><span>Acne</span><i class="icon-arrow-right"></i></a></li>
-                    <li><a href="how-to-get-rid-of-blackheads-and-whiteheads"><span>Blackheads
-                        </span><i class="icon-arrow-right"></i></a></li>
-                    <li><a href="Why-Birthmark-Removal-Treatment-is-Stopped-in-Summer"><span>Birthmark
-                        </span><i class="icon-arrow-right"></i></a></li>
-
-                  </ul>
-                </div>
-              </div>
-              <div class="widget widget-help bg-overlay bg-overlay-secondary-gradient">
+              <div class="widget widget-services"><h2 class="widget__title">Treatments</h2><div class="widget-content"><ul class="list-unstyled mb-0 treatment-navigation"><li><a href="/baby-skin-clinic">Baby Skin Clinic</a></li>
+<li><a href="/chronic-skin-diseases-cinic">Chronic Skin Disease Clinic</a></li>
+<li><a href="/hair-transplant">Hair Transplantation</a></li>
+<li><a href="/Medical-Hair-Fall-Treatments" aria-current="page">Medical Hair Fall Treatment</a></li>
+<li><a href="/nutritional-therapy">Nutritional Therapy</a></li>
+<li><a href="/growth-factor-therapy">Growth Factor Therapy</a></li>
+<li><a href="/pain-free-mesotherapy">Scalp Mesotherapy</a></li>
+<li><a href="/microscopic-hair-analysis">Microscopic Hair Analysis</a></li>
+<li><a href="/laser-hair-grow">Laser Hair Growth Therapy</a></li>
+<li><a href="/platelet-rich-plasma">Platelet Rich Plasma Therapy</a></li>
+<li><a href="/triple-grow-factor">Triple Growth Factor Therapy</a></li>
+<li><a href="/scalp-micro-pigmentation">Scalp Micropigmentation</a></li>
+<li><a href="/hyperhydrosis-clinic">Hyperhidrosis Clinic</a></li>
+<li><a href="/vitiligo">Vitiligo Clinic</a></li>
+<li><a href="/keloids">Keloid Clinic</a></li>
+<li><a href="/scars-removal">Scar Treatment</a></li>
+<li><a href="/birthmark">Birthmark Assessment and Treatment</a></li>
+<li><a href="/laser-tatoo-removal">Laser Tattoo Removal</a></li>
+<li><a href="/stretch-mark-removal">Stretch Mark Treatment</a></li>
+<li><a href="/body-shaping-clinic">Body Shaping Clinic</a></li>
+<li><a href="/anti-aging-clinic">Anti-Aging Clinic</a></li>
+<li><a href="/nail-clinic">Nail Clinic</a></li>
+<li><a href="/Laser-Vaginal-Tightening-Clinic">Vaginal Health Consultation</a></li>
+<li><a href="/Moles-And-Skin-Tag-Removal">Mole and Skin Tag Removal</a></li>
+<li><a href="/Beautiful-Bride">Bridal Skin Consultation</a></li>
+<li><a href="/dark-circle">Dark Circle Treatment</a></li>
+<li><a href="/acne-treatment">Acne Treatment</a></li>
+<li><a href="/laser-hair-reduction">Laser Hair Reduction</a></li></ul></div></div>
+<div class="widget widget-help bg-overlay bg-overlay-secondary-gradient">
                 <div class="bg-img"><img src="assets/images/banners/5.jpg" alt="" loading="lazy"></div>
                 <div class="widget-content">
                   <div class="widget__icon">
@@ -446,7 +422,7 @@
                 </a>
               </div>
             </div>
-  
+
             <div class="col-sm-12 col-md-12 col-lg-2">
               <div class="footer-widget-nav">
                 <h6 class="footer-widget__title">Links</h6>
@@ -456,11 +432,11 @@
                     <li><a href="about">About</a></li>
                     <li><a href="Blog">Blog</a></li>
                     <li><a href="Contact">Contacts</a></li>
-  
-  
+
+
                   </ul>
                 </nav>
-  
+
               </div>
             </div>
             <div class="col-sm-6 col-md-6 col-lg-3  ">
@@ -473,10 +449,10 @@
                     <li><a href="vitiligo">Vitiligo Clinic</a></li>
                     <li><a href="laser-tatoo-removal">Laser Tatoo Removal</a></li>
                     <li><a href="microscopic-hair-analysis">Microscopic Hair Analysis</a></li>
-                    <li><a href="pain-free-mesotherapy">Pain Free Mesotherapy</a></li>
+                    <li><a href="pain-free-mesotherapy">Scalp Mesotherapy</a></li>
                     <li><a href="laser-hair-grow">Laser Hair Grow</a></li>
                     <li><a href="platelet-rich-plasma">Platelet Rich Plasma</a></li>
-                    <li><a href="hair-treatments">Hair Transplant</a></li>
+                    <li><a href="/hair-transplant">Hair Transplant</a></li>
                     <li><a href="birthmark">Laser Birthmark Removal</a></li>
                   </ul>
                 </nav>
@@ -498,7 +474,7 @@
                     Commissioner Office, Camp, Pune, Maharashtra 411001</li>
                 </ul>
                 <div class="d-flex align-items-center">
-  
+
                   <ul class="social-icons list-unstyled mb-0">
                     <li><a href="https://www.facebook.com/DhepesSkinCity" target="_blank"><i
                           class="fab fa-facebook-f"></i></a></li>
@@ -523,7 +499,7 @@
               <span class="fz-14"> Distributed by</span>
               <a class="fz-14 color-primary" href="https://webakoof.com" target="_blank">Webakoof</a>
             </div>
-  
+
           </div>
         </div>
       </div>

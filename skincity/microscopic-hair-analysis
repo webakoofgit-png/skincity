@@ -17,10 +17,10 @@
 
   <link href="assets/images/about/favicon.svg" rel="icon">
   <title>Microscopic Hair Analysis | Skin City India</title>
-  <meta property="og:image" content="https://skincityindia.in/assets/images/services/previewmcroscopic.png" loading="lazy"/>
+  <meta property="og:image" content="https://skincityindia.in/assets/images/microscopic-hair-analysis.webp">
   <meta property="og:title" content="Microscopic Hair Analysis | Skin City India">
-  <meta name="description" content="Get microscopic hair analysis at Skin City India. Examine hair thinning, scalp health and hair loss patterns with a detailed scalp assessment." />
-  <meta property="og:url" content="https://skincityindia.in/microscopic-hair-analysis" />
+  <meta name="description" content="Magnified examination of the scalp and hair helps a dermatologist assess visible hair shafts, follicular openings, scaling and patterns of thinning.">
+  <meta property="og:url" content="https://skincityindia.in/microscopic-hair-analysis">
   <link rel="stylesheet"
     href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css">
@@ -33,10 +33,10 @@
 
 <body>
   <div class="wrapper">
- 
+
 
     <header class="header header-layout1">
-  
+
       <div class="header-topbar">
           <div class="container-fluid">
               <div class="row align-items-center">
@@ -97,6 +97,7 @@
                       <li class="nav__item has-dropdown">
                           <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link active">Treatments</a>
                           <ul class="dropdown-menu">
+<li class="nav__item"><a href="/treatments" class="nav__item-link">All Treatments</a></li>
                               <li class=" nav__item has-dropdown">
                                   <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link"
                                       style="font-weight: bold;">Skin</a>
@@ -124,7 +125,7 @@
                                               style="font-weight: bold;">Hair
                                               Transplantation</a>
                                       </li>
-                                     
+
                                       <li class="nav__item">
                                           <a href="Medical-Hair-Fall-Treatments" class="nav__item-link"
                                               style="font-weight: bold;">Medical
@@ -132,8 +133,7 @@
                                       </li>
                                       <li class="nav__item">
                                           <a href="pain-free-mesotherapy" class="nav__item-link"
-                                              style="font-weight: bold;">Pain Free
-                                              Mesotherapy</a>
+                                              style="font-weight: bold;">Scalp Mesotherapy</a>
                                       </li>
                                       <li class="nav__item">
                                           <a href="microscopic-hair-analysis" class="nav__item-link"
@@ -315,64 +315,61 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-8">
-            <div class="text-block mb-50">
-
-              <div class="video-banner-layout3 bg-overlay mb-50" style="text-align: justify;">
-                <img src="assets/images/microscopic-hair-analysis.webp" alt="Dermatologist performing microscopic hair and scalp analysis using a digital scalp examination device at Skin City India." width="1672" height="941" style="width: 100%; height: auto;" decoding="async" loading="lazy">
-                
-              </div><!-- /.video-banner -->
-              <h2 class="text-block__title">Advanced Hair &amp; Scalp Examination</h2>
-              <p class="text-block__desc mb-30">Hair fall, thinning, and scalp problems can have different underlying causes. At Skin City India, Pune, we offer microscopic hair analysis to help dermatologists examine hair follicles and scalp health in greater detail.</p>
-
-              <h2 class="text-block__title">What Is Microscopic Hair Analysis?</h2>
-              <p class="text-block__desc mb-20">Microscopic Hair Analysis is a non-invasive diagnostic procedure that uses a specialized magnifying device to examine the scalp and hair.</p>
-              <p class="text-block__desc mb-30">It helps dermatologists assess hair density, hair thickness, scalp condition, and visible signs of hair loss.</p>
-
-              <h2 class="text-block__title">What Can Microscopic Hair Analysis Detect?</h2>
-              <ul class="text-block__desc pl-20 mb-30">
-                <li class="mb-10"><strong>Hair Thinning:</strong> Identifies variations in hair thickness and density.</li>
-                <li class="mb-10"><strong>Scalp Conditions:</strong> Helps assess dandruff, irritation, and visible scalp changes.</li>
-                <li class="mb-10"><strong>Hair Follicle Health:</strong> Examines follicular openings and hair growth patterns.</li>
-                <li class="mb-10"><strong>Hair Loss Patterns:</strong> Helps identify signs associated with certain types of hair loss.</li>
-                <li><strong>Treatment Monitoring:</strong> Supports comparison of scalp and hair changes over time.</li>
-              </ul>
-
-              <h2 class="text-block__title">How Does the Procedure Work?</h2>
-              <p class="text-block__desc mb-20">Our dermatologist examines different areas of your scalp using a specialized microscopic camera. Magnified images help evaluate hair and scalp conditions.</p>
-              <p class="text-block__desc mb-30">The procedure is generally painless, requires no injections, and usually involves no downtime.</p>
-
-              <h2 class="text-block__title">Book a Hair &amp; Scalp Consultation</h2>
-              <p class="text-block__desc mb-20">Experiencing excessive hair fall, thinning hair, or scalp concerns? Visit Skin City India for a detailed hair and scalp assessment.</p>
-              <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank"
-                class="btn btn__primary btn__rounded">Book an Appointment Today!</a>
-
-            </div><!-- /.text-block -->
-
-
-
-
-
-
-          </div><!-- /.col-lg-8 -->
+            <article class="text-block mb-50 treatment-detail">
+ <img class="treatment-detail__image" src="/assets/images/microscopic-hair-analysis.webp" alt="Magnified hair and scalp examination" decoding="async">
+ <h2 class="text-block__title">About Microscopic Hair Analysis</h2>
+ <p class="text-block__desc mb-30">Trichoscopy is a non-invasive examination of the hair and scalp using a magnifying device or digital camera. It helps a dermatologist assess visible features and plan further care.</p>
+ <h2 class="text-block__title">What Can It Show?</h2>
+ <ul class="text-block__desc pl-20 mb-30">
+  <li class="mb-10">Differences in hair-shaft thickness and signs of breakage.</li>
+  <li class="mb-10">Follicular openings, scaling and visible scalp inflammation.</li>
+  <li>Patterns that help assess hair loss and monitor changes over time.</li>
+ </ul>
+ <h2 class="text-block__title">What to Expect</h2>
+ <p class="text-block__desc mb-30">The dermatologist examines selected scalp areas and considers the findings alongside your symptoms and medical history. Images may be recorded for follow-up. Blood tests, hair sampling or a scalp biopsy may be needed in selected cases.</p>
+ <p class="text-block__desc mb-30">This is an assessment, not a hair-growth treatment. Scalp images alone cannot diagnose nutrient deficiencies, hormone levels or toxic exposures.</p>
+ <h2 class="text-block__title">Hair Clinic Treatments</h2>
+ <ul class="text-block__desc treatment-options pl-20 mb-30">
+  <li class="mb-10"><a href="/pain-free-mesotherapy">Scalp Mesotherapy</a></li>
+  <li class="mb-10"><a href="/growth-factor-therapy">Growth Factor Therapy</a></li>
+  <li class="mb-10"><a href="/triple-grow-factor">Triple Growth Factor Therapy</a></li>
+  <li class="mb-10"><a href="/laser-hair-grow">Laser Hair Growth Therapy</a></li>
+  <li><a href="/hair-transplant">Bio-FUE Hair Transplantation</a></li>
+ </ul>
+ <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank" rel="noopener" class="btn btn__primary btn__rounded">Book a Hair and Scalp Consultation</a>
+</article>
+  </div><!-- /.col-lg-8 -->
           <div class="col-sm-12 col-md-12 col-lg-4">
             <aside class="sidebar has-marign-left sticky-top">
-              <div class="widget widget-services">
-                <h5 class="widget__title text-center">Our Blogs</h5>
-                <div class="widget-content">
-                  <ul class="list-unstyled mb-0">
-                    <li><a href="how-to-get -rid-of-dark-circle"><span>Dark Circle</span><i
-                          class="icon-arrow-right"></i></a></li>
-                    <li><a href="how-to-get-fair-skin"><span>Fair Skin</span><i class="icon-arrow-right"></i></a></li>
-                    <li><a href="how-to-get-rid-of-acne"><span>Acne</span><i class="icon-arrow-right"></i></a></li>
-                    <li><a href="how-to-get-rid-of-blackheads-and-whiteheads"><span>Blackheads
-                        </span><i class="icon-arrow-right"></i></a></li>
-                    <li><a href="Why-Birthmark-Removal-Treatment-is-Stopped-in-Summer"><span>Birthmark
-                        </span><i class="icon-arrow-right"></i></a></li>
-
-                  </ul>
-                </div>
-              </div>
-              <div class="widget widget-help bg-overlay bg-overlay-secondary-gradient">
+              <div class="widget widget-services"><h2 class="widget__title">Treatments</h2><div class="widget-content"><ul class="list-unstyled mb-0 treatment-navigation"><li><a href="/baby-skin-clinic">Baby Skin Clinic</a></li>
+<li><a href="/chronic-skin-diseases-cinic">Chronic Skin Disease Clinic</a></li>
+<li><a href="/hair-transplant">Hair Transplantation</a></li>
+<li><a href="/Medical-Hair-Fall-Treatments">Medical Hair Fall Treatment</a></li>
+<li><a href="/nutritional-therapy">Nutritional Therapy</a></li>
+<li><a href="/growth-factor-therapy">Growth Factor Therapy</a></li>
+<li><a href="/pain-free-mesotherapy">Scalp Mesotherapy</a></li>
+<li><a href="/microscopic-hair-analysis" aria-current="page">Microscopic Hair Analysis</a></li>
+<li><a href="/laser-hair-grow">Laser Hair Growth Therapy</a></li>
+<li><a href="/platelet-rich-plasma">Platelet Rich Plasma Therapy</a></li>
+<li><a href="/triple-grow-factor">Triple Growth Factor Therapy</a></li>
+<li><a href="/scalp-micro-pigmentation">Scalp Micropigmentation</a></li>
+<li><a href="/hyperhydrosis-clinic">Hyperhidrosis Clinic</a></li>
+<li><a href="/vitiligo">Vitiligo Clinic</a></li>
+<li><a href="/keloids">Keloid Clinic</a></li>
+<li><a href="/scars-removal">Scar Treatment</a></li>
+<li><a href="/birthmark">Birthmark Assessment and Treatment</a></li>
+<li><a href="/laser-tatoo-removal">Laser Tattoo Removal</a></li>
+<li><a href="/stretch-mark-removal">Stretch Mark Treatment</a></li>
+<li><a href="/body-shaping-clinic">Body Shaping Clinic</a></li>
+<li><a href="/anti-aging-clinic">Anti-Aging Clinic</a></li>
+<li><a href="/nail-clinic">Nail Clinic</a></li>
+<li><a href="/Laser-Vaginal-Tightening-Clinic">Vaginal Health Consultation</a></li>
+<li><a href="/Moles-And-Skin-Tag-Removal">Mole and Skin Tag Removal</a></li>
+<li><a href="/Beautiful-Bride">Bridal Skin Consultation</a></li>
+<li><a href="/dark-circle">Dark Circle Treatment</a></li>
+<li><a href="/acne-treatment">Acne Treatment</a></li>
+<li><a href="/laser-hair-reduction">Laser Hair Reduction</a></li></ul></div></div>
+<div class="widget widget-help bg-overlay bg-overlay-secondary-gradient">
                 <div class="bg-img"><img src="assets/images/banners/5.jpg" alt="" loading="lazy"></div>
                 <div class="widget-content">
                   <div class="widget__icon">
@@ -462,10 +459,10 @@
                                   <li><a href="vitiligo">Vitiligo Clinic</a></li>
                                   <li><a href="laser-tatoo-removal">Laser Tatoo Removal</a></li>
                                   <li><a href="microscopic-hair-analysis">Microscopic Hair Analysis</a></li>
-                                  <li><a href="pain-free-mesotherapy">Pain Free Mesotherapy</a></li>
+                                  <li><a href="pain-free-mesotherapy">Scalp Mesotherapy</a></li>
                                   <li><a href="laser-hair-grow">Laser Hair Grow</a></li>
                                   <li><a href="platelet-rich-plasma">Platelet Rich Plasma</a></li>
-                                  <li><a href="hair-treatments">Hair Transplant</a></li>
+                                  <li><a href="/hair-transplant">Hair Transplant</a></li>
                                   <li><a href="birthmark">Laser Birthmark Removal</a></li>
                               </ul>
                           </nav>

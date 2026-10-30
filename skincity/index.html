@@ -107,6 +107,7 @@
               <li class="nav__item has-dropdown">
                 <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link">Treatments</a>
                 <ul class="dropdown-menu">
+<li class="nav__item"><a href="/treatments" class="nav__item-link">All Treatments</a></li>
                   <li class=" nav__item has-dropdown">
                     <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link"
                       style="font-weight: bold;">Skin</a>
@@ -137,8 +138,7 @@
                           Hair Fall Treatments</a>
                       </li>
                       <li class="nav__item">
-                        <a href="pain-free-mesotherapy" class="nav__item-link" style="font-weight: bold;">Pain Free
-                          Mesotherapy</a>
+                        <a href="pain-free-mesotherapy" class="nav__item-link" style="font-weight: bold;">Scalp Mesotherapy</a>
                       </li>
                       <li class="nav__item">
                         <a href="microscopic-hair-analysis" class="nav__item-link"
@@ -268,7 +268,7 @@
 
     <section class="slider">
       <div class="slick-carousel m-slides-0"
-        data-slick='{"slidesToShow": 1, : true, "dots": false, "speed":700,"fade": true,"cssEase": }'>
+        data-slick='{"slidesToShow": 1, "slidesToScroll": 1, "autoplay": true, "autoplaySpeed": 4000, "infinite": true, "arrows": true, "dots": false, "speed": 700, "fade": true, "cssEase": "ease", "pauseOnHover": false}'>
         
         <div class="slide-item align-v-h">
           <div class="bg-img"><img src="assets/images/about/ss-1.webp" alt="Vitiligo treatment at Skin City" loading="lazy"></div>
@@ -490,114 +490,96 @@
 
 
     <!-- skincity features -->
-    <section class="features-layout2 pt-130 bg-overlay bg-overlay-primary">
-      <div class="bg-img"><img src="assets/images/backgrounds/2.jpg" alt=""  loading="lazy"></div>
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12 col-md-12 col-lg-8 offset-lg-1">
-            <div class="heading__layout2 mb-50">
-              <h3 class="heading__title color-white">Skin City is the largest Aesthetic Dermatology set-up in India and
-                the only one that practices Aesthetic Dermatology with an institutional approach. </h3>
-            </div>
-          </div>
-          <div class="row mb-100">
-            <div class="col-sm-3 col-md-3 col-lg-1 offset-lg-5">
-              <div class="heading__icon ml-2">
-                <img src="assets/images/icons/stethoscope.png" alt="" loading="lazy" width="70px" height="60px" loading="lazy">
-              </div>
-            </div>
-            <div class="col-sm-9 col-md-9 col-lg-6">
-              <p class="heading__desc font-weight-bold color-white mb-30 ml-2">Our services include dermatology and skin
-                surgery, aesthetic dermatology, lasers & cosmetic surgery and hair treatment. We have thus established
-                ourselves as the perfect balance between aesthetic dermatology, hardcore dermatology & dermatology
-                teaching.Skin City caters to 16 districts of Maharashtra & Karnataka. Over the past 12 years, Skin City
-                has catered to more than 3 lac patients from these districts.
-              </p>
-              <a href="#" class="btn btn__white btn__link">
-                <i class="icon-arrow-right icon-filled"></i>
-                <span>Our Core Values</span>
-              </a>
-            </div>
-          </div>
-          <div class="row">
+    <section class="features-layout2 treatment-features bg-overlay bg-overlay-primary">
+ <div class="bg-img"><img src="assets/images/backgrounds/2.jpg" alt="" loading="lazy"></div>
+ <div class="container">
+  <div class="row"><div class="col-lg-10"><div class="heading__layout2 mb-40"><h3 class="heading__title color-white">Skin City is the largest Aesthetic Dermatology set-up in India and
+                the only one that practices Aesthetic Dermatology with an institutional approach. </h3></div></div></div>
+  <div class="row align-items-center">
+   <div class="col-lg-6"><div class="row treatment-feature-grid">
 
-            <div class="col-sm-6 col-md-6 col-lg-3 ">
+            <div class="col-6">
               <div class="feature-item">
 
                 <div class="feature__content">
                   <div class="feature__icon">
                     <img src="assets/images/icons/acne.png" alt="" loading="lazy" style="width: 100px;height: 100px;">
                   </div>
-                  <h4 class="feature__title">Acne Treatment</h4>
+                  <h4 class="feature__title"><a href="/acne-treatment">Acne Treatment</a></h4>
                 </div>
-                <a href="#" class="btn__link">
+                <a href="/acne-treatment" class="btn__link" aria-label="View Acne Treatment details">
                   <i class="icon-arrow-right icon-outlined"></i>
                 </a>
               </div>
             </div>
 
-            <div class="col-sm-6 col-md-6 col-lg-3">
+            <div class="col-6">
               <div class="feature-item">
 
                 <div class="feature__content">
                   <div class="feature__icon">
                     <img src="assets/images/icons/hair-transplant.png" alt="" loading="lazy" style="width: 100px;height: 100px;">
                   </div>
-                  <h4 class="feature__title">Hair Transplant </h4>
+                  <h4 class="feature__title"><a href="/hair-transplant">Hair Transplant</a></h4>
                 </div>
-                <a href="#" class="btn__link">
+                <a href="/hair-transplant" class="btn__link" aria-label="View Hair Transplant details">
                   <i class="icon-arrow-right icon-outlined"></i>
                 </a>
               </div>
             </div>
 
-            <div class="col-sm-6 col-md-6 col-lg-3">
+            <div class="col-6">
               <div class="feature-item">
 
                 <div class="feature__content">
                   <div class="feature__icon">
                     <img src="assets/images/icons/wrinkles.png" alt="" loading="lazy" style="width: 100px;height: 100px;">
                   </div>
-                  <h4 class="feature__title">Wrinkles</h4>
+                  <h4 class="feature__title"><a href="/anti-aging-clinic">Wrinkles</a></h4>
                 </div>
-                <a href="#" class="btn__link">
+                <a href="/anti-aging-clinic" class="btn__link" aria-label="View Wrinkles details">
                   <i class="icon-arrow-right icon-outlined"></i>
                 </a>
               </div>
             </div>
 
-            <div class="col-sm-6 col-md-6 col-lg-3">
+            <div class="col-6">
               <div class="feature-item">
 
                 <div class="feature__content">
                   <div class="feature__icon">
                     <img src="assets/images/icons/dark-circles.png" alt="" loading="lazy" style="width: 100px;height: 100px;">
                   </div>
-                  <h4 class="feature__title">Dark Circle </h4>
+                  <h4 class="feature__title"><a href="/dark-circle">Dark Circle</a></h4>
                 </div>
-                <a href="#" class="btn__link">
+                <a href="/dark-circle" class="btn__link" aria-label="View Dark Circle details">
                   <i class="icon-arrow-right icon-outlined"></i>
                 </a>
               </div>
             </div>
-          </div>
-
-
-          <div class="row text-center">
-            <div class="col-md-12 col-lg-6 offset-lg-3 text-center">
-              <p class="font-weight-bold color-gray mb-0 ">We hope you will allow us to care for you and
+          </div></div>
+   <div class="col-lg-6 treatment-features__intro">
+    <div class="heading__icon mb-20"><img src="assets/images/icons/stethoscope.png" alt="" loading="lazy" width="70" height="60"></div>
+    <p class="heading__desc font-weight-bold color-white mb-30">Our services include dermatology and skin
+                surgery, aesthetic dermatology, lasers & cosmetic surgery and hair treatment. We have thus established
+                ourselves as the perfect balance between aesthetic dermatology, hardcore dermatology & dermatology
+                teaching.Skin City caters to 16 districts of Maharashtra & Karnataka. Over the past 12 years, Skin City
+                has catered to more than 3 lac patients from these districts.
+              </p><a href="#" class="btn btn__white btn__link">
+                <i class="icon-arrow-right icon-filled"></i>
+                <span>Our Core Values</span>
+              </a>
+   </div>
+  </div>
+  <div class="row text-center mt-30"><div class="col-12"><p class="font-weight-bold color-gray mb-0 ">We hope you will allow us to care for you and
                 strive to be the
                 first and best choice for healthcare.
                 <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank" class="color-secondary">
                   <span>Contact Us For More Information</span> <i class="icon-arrow-right"></i>
                 </a>
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </section>
+              </p></div></div>
+ </div>
+</section>
 
 
 
@@ -633,43 +615,9 @@
           </div>
         </div>
         <div class="row">
+<div class="col-sm-12 col-md-6 col-lg-4"><div class="post-item"><div class="post__img"><a href="blog/microscopic-hair-analysis-hair-loss/"><img src="assets/images/blog/preblog-89.png" alt="Microscopic hair analysis using a magnifying device to examine the scalp" loading="lazy" style="display:block;width:100%;height:auto;aspect-ratio:auto;object-fit:contain"></a></div><div class="post__body"><div class="post__meta-cat"><a href="blog/microscopic-hair-analysis-hair-loss/">Hair &amp; Scalp Diagnosis</a></div><div class="post__meta d-flex"><span class="post__meta-date">October 30, 2026</span><a class="post__meta-author" href="blog/microscopic-hair-analysis-hair-loss/">SkinCity India</a></div><h4 class="post__title"><a href="blog/microscopic-hair-analysis-hair-loss/">Microscopic Hair Analysis: How Dermatologists Identify the Root Cause of Hair Loss</a></h4><p class="post__desc">Discover how microscopic hair analysis helps dermatologists examine scalp health, hair follicles, and possible causes of hair loss.</p><a href="blog/microscopic-hair-analysis-hair-loss/" class="btn btn_secondary btnlink btn_rounded"><span>Read More</span><i class="icon-arrow-right"></i></a></div></div></div>
+<div class="col-sm-12 col-md-6 col-lg-4"><div class="post-item"><div class="post__img"><a href="blog/common-skin-problems-in-children/"><img src="assets/images/blog/preblog-90.png" alt="Common skin problems in children, featuring a baby with a facial rash" loading="lazy" style="display:block;width:100%;height:auto;aspect-ratio:auto;object-fit:contain"></a></div><div class="post__body"><div class="post__meta-cat"><a href="blog/common-skin-problems-in-children/">Pediatric Dermatology</a></div><div class="post__meta d-flex"><span class="post__meta-date">October 17, 2026</span><a class="post__meta-author" href="blog/common-skin-problems-in-children/">SkinCity India</a></div><h4 class="post__title"><a href="blog/common-skin-problems-in-children/">Common Skin Problems in Children: When Should Parents Visit a Dermatologist?</a></h4><p class="post__desc">Learn about common skin problems in children, including eczema, rashes, allergies, and infections, and when to consult a dermatologist in Pune.</p><a href="blog/common-skin-problems-in-children/" class="btn btn_secondary btnlink btn_rounded"><span>Read More</span><i class="icon-arrow-right"></i></a></div></div></div>
 <div class="col-sm-12 col-md-6 col-lg-4"><div class="post-item"><div class="post__img"><a href="blog/navratri-skincare-tips-glowing-skin/"><img src="assets/images/blog/_Skin%20Glowing%20During%20the%20Festive%20Season%20preblog.png" alt="Navratri skincare tips for healthy and glowing skin during festive celebrations" loading="lazy"></a></div><div class="post__body"><div class="post__meta-cat"><a href="blog/navratri-skincare-tips-glowing-skin/">Skincare Tips &amp; Dermatology</a></div><div class="post__meta d-flex"><span class="post__meta-date">October 10, 2026</span><a class="post__meta-author" href="blog/navratri-skincare-tips-glowing-skin/">Skincity India</a></div><h4 class="post__title"><a href="blog/navratri-skincare-tips-glowing-skin/">Navratri Skincare Tips: How to Keep Your Skin Glowing During the Festive Season</a></h4><p class="post__desc">Discover expert Navratri skincare tips to manage festive makeup, prevent breakouts, and keep your skin healthy and glowing.</p><a href="blog/navratri-skincare-tips-glowing-skin/" class="btn btn_secondary btnlink btn_rounded"><span>Read More</span><i class="icon-arrow-right"></i></a></div></div></div>
-<div class="col-sm-12 col-md-6 col-lg-4">
-            <div class="post-item">
-              <div class="post__img"><a href="Alma-Lasers-Treatments-at-SkinCity-India"><img
-                    src="assets/images/blog/Alma%20Laser%20Treatments_preblog.png"
-                    alt="Alma laser treatments at SkinCity India" loading="lazy"></a></div>
-              <div class="post__body">
-                <div class="post__meta-cat"><a href="Alma-Lasers-Treatments-at-SkinCity-India">Alma Laser Treatments</a>
-                </div>
-                <div class="post__meta d-flex"><span class="post__meta-date">September 20, 2026</span><a
-                    class="post__meta-author" href="Alma-Lasers-Treatments-at-SkinCity-India">SkinCity India</a></div>
-                <h4 class="post__title"><a href="Alma-Lasers-Treatments-at-SkinCity-India">Alma Laser Treatments: Harmony, Accent Prime and Soprano Explained</a></h4>
-                <p class="post__desc">Understand Alma laser platforms, their common applications and why dermatologist
-                  consultation matters.</p>
-                <a href="Alma-Lasers-Treatments-at-SkinCity-India"
-                  class="btn btn_secondary btnlink btn_rounded"><span>Read More</span><i
-                    class="icon-arrow-right"></i></a>
-              </div>
-            </div>
-          </div>
-<div class="col-sm-12 col-md-6 col-lg-4">
-            <div class="post-item">
-              <div class="post__img"><a href="blog/acne-scar-treatment-pune"><img
-                    src="assets/images/blog/Acne%20Scars_%20Types,%20Causes%20%26%20Best%20%20Acne%20Scar%20Treatments%20in%20Pune_preblog.png"
-                    alt="Acne scar treatment" loading="lazy"></a></div>
-              <div class="post__body">
-                <div class="post__meta-cat"><a href="blog/acne-scar-treatment-pune">Acne Scar Treatment</a></div>
-                <div class="post__meta d-flex"><span class="post__meta-date">September 8, 2026</span><a
-                    class="post__meta-author" href="blog/acne-scar-treatment-pune">SkinCity India</a></div>
-                <h4 class="post__title"><a href="blog/acne-scar-treatment-pune">Acne Scars: Types, Causes &amp; Best
-                    Acne Scar Treatments</a></h4>
-                <p class="post__desc">Learn about acne scar types, causes, prevention and treatment planning.</p><a
-                  href="blog/acne-scar-treatment-pune" class="btn btn_secondary btnlink btn_rounded"><span>Read
-                    More</span><i class="icon-arrow-right"></i></a>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </section>
@@ -746,10 +694,10 @@
                   <li><a href="vitiligo">Vitiligo Clinic</a></li>
                   <li><a href="laser-tatoo-removal">Laser Tatoo Removal</a></li>
                   <li><a href="microscopic-hair-analysis">Microscopic Hair Analysis</a></li>
-                  <li><a href="pain-free-mesotherapy">Pain Free Mesotherapy</a></li>
+                  <li><a href="pain-free-mesotherapy">Scalp Mesotherapy</a></li>
                   <li><a href="laser-hair-grow">Laser Hair Grow</a></li>
                   <li><a href="platelet-rich-plasma">Platelet Rich Plasma</a></li>
-                  <li><a href="hair-treatments">Hair Transplant</a></li>
+                  <li><a href="/hair-transplant">Hair Transplant</a></li>
                   <li><a href="birthmark">Laser Birthmark Removal</a></li>
                 </ul>
               </nav>

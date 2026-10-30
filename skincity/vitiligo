@@ -16,11 +16,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
     <link href="assets/images/about/favicon.svg" rel="icon">
-    <title>Vitiligo Treatments</title>
-<meta property="og:image" content="https://skincityindia.in/assets/images/services/vitiligopreview.png" loading="lazy" />
-    <meta property="og:title" content="vitiligo treatment">
-    <meta name="description" content="Vitiligo, a skin condition characterized by the loss of pigment, manifests as white spots, blotches, or marks on the skin, affecting individuals across diverse backgrounds."/>
-    <meta property="og:url" content="https://skincityindia.in/vitiligo" />
+    <title>Vitiligo Clinic | Skin City India</title>
+<meta property="og:image" content="https://skincityindia.in/assets/images/Vitiligo.png">
+    <meta property="og:title" content="Vitiligo Clinic | Skin City India">
+    <meta name="description" content="Vitiligo causes loss of skin pigment. Treatment may help restore colour in some areas, but response varies with the type, location and activity of the condition.">
+    <meta property="og:url" content="https://skincityindia.in/vitiligo">
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css">
@@ -33,10 +33,10 @@
 
 <body>
     <div class="wrapper">
-        
+
 
          <header class="header header-layout1">
-  
+
             <div class="header-topbar">
                 <div class="container-fluid">
                     <div class="row align-items-center">
@@ -44,7 +44,7 @@
                             <div class="d-flex align-items-center justify-content-between">
                                 <ul class="contact__list d-flex flex-wrap align-items-center list-unstyled mb-0 text-center"
                                     style="margin-top: 20px;">
-    
+
                                     <li>
                                         <i class="icon-phone"></i><a href="tel:+91 9890225577">+91 9890225577</a> / <a href="tel:+919422458130">+91 9422458130</a>
                                     </li>
@@ -53,7 +53,7 @@
                                             Road, Opposite
                                             Commissioner Office, Maharashtra 411001</a>
                                     </li>
-    
+
                                 </ul>
                                 <div class="d-flex" style="margin-top: 10px;">
                                     <ul class="social-icons list-unstyled mb-0 mr-30">
@@ -80,7 +80,7 @@
                 <div class="container-fluid">
                     <a class="navbar-brand" href="index.html">
                         <img src="assets/images/logo/logo.svg" class="" alt="Skin City India" width="160px" height="80px">
-    
+
                     </a>
                     <button class="navbar-toggler" type="button">
                         <span class="menu-lines"><span></span></span>
@@ -92,11 +92,12 @@
                             </li>
                             <li class="nav__item has-dropdown">
                                 <a href="about" class="nav__item-link ">About</a>
-    
+
                             </li>
                             <li class="nav__item has-dropdown">
                                 <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link">Treatments</a>
                                 <ul class="dropdown-menu">
+<li class="nav__item"><a href="/treatments" class="nav__item-link">All Treatments</a></li>
                                     <li class=" nav__item has-dropdown">
                                         <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link"
                                             style="font-weight: bold;">Skin</a>
@@ -111,20 +112,20 @@
                                                     style="font-weight: bold;">Chronic
                                                     Skin Disease</a>
                                             </li>
-    
+
                                         </ul>
                                     </li>
                                     <li class="nav__item">
                                         <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link"
                                             style="font-weight: bold;">Hair</a>
                                         <ul style="list-style: none;">
-    
+
                                             <li class="nav__item">
                                                 <a href="hair-transplant" class="nav__item-link"
                                                     style="font-weight: bold;">Hair
                                                     Transplantation</a>
                                             </li>
-                                           
+
                                             <li class="nav__item">
                                                 <a href="Medical-Hair-Fall-Treatments" class="nav__item-link"
                                                     style="font-weight: bold;">Medical
@@ -132,8 +133,7 @@
                                             </li>
                                             <li class="nav__item">
                                                 <a href="pain-free-mesotherapy" class="nav__item-link"
-                                                    style="font-weight: bold;">Pain Free
-                                                    Mesotherapy</a>
+                                                    style="font-weight: bold;">Scalp Mesotherapy</a>
                                             </li>
                                             <li class="nav__item">
                                                 <a href="microscopic-hair-analysis" class="nav__item-link"
@@ -167,7 +167,7 @@
                                     class="dropdown-toggle nav__item-link active">Superspeciality
                                     Dermatology</a>
                                 <ul class="dropdown-menu">
-    
+
                                     <li class="nav__item">
                                         <a href="hyperhydrosis-clinic" class="nav__item-link"
                                             style="font-weight: bold;">Hyperhydrosis
@@ -202,12 +202,12 @@
                                     </li>
                                 </ul>
                             </li>
-    
+
                             <li class="nav__item has-dropdown">
                                 <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link ">Cosmetic
                                     Dermatology</a>
                                 <ul class="dropdown-menu">
-    
+
                                     <li class="nav__item">
                                         <a href="body-shaping-clinic" class="nav__item-link"
                                             style="font-weight: bold;">Body Shaping
@@ -231,19 +231,19 @@
                                         <a href="Moles-And-Skin-Tag-Removal" class="nav__item-link"
                                             style="font-weight: bold;">Moles And
                                             Skin Tag Removal
-    
+
                                         </a>
                                     </li>
                                     <li class="nav__item">
                                         <a href="Beautiful-Bride" class="nav__item-link"
                                             style="font-weight: bold;">Beautiful Bride
-    
+
                                         </a>
                                     </li>
                                     <li class="nav__item">
                                         <a href="dark-circle" class="nav__item-link" style="font-weight: bold;">Dark
                                             Circles
-    
+
                                         </a>
                                     </li>
                                 </ul>
@@ -251,11 +251,11 @@
                             <li class="nav__item">
                                 <a href="success-stories" class="nav__item-link ">Success Stories</a>
                             </li>
-    
-    
+
+
                             <li class="nav__item">
-    
-    
+
+
                                 <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank"
                                     class="btn btn__primary btn__rounded ml-25" style="margin-top: 10px;">
                                     <i class="icon-calendar"></i>
@@ -265,7 +265,7 @@
                         </ul>
                         <button class="close-mobile-menu d-block d-lg-none"><i class="fas fa-times"></i></button>
                     </div>
-    
+
                 </div>
             </nav>
         </header>
@@ -302,9 +302,9 @@
                 <div class="row">
                     <div class="col-sm-12 col-md-12 col-lg-12 col-xl-8 offset-xl-2">
                         <img src="assets/images/services/circle-1.png" alt="" loading="lazy" width="150px" height="150px">
-                        
+
                         <h1 class="pagetitle__heading ">Vitiligo Treatment</h1>
-                        
+
                         <a href="#content" class="scroll-down"><i class="fas fa-long-arrow-alt-down"></i></a>
                     </div><!-- /.col-xl-8 -->
                 </div><!-- /.row -->
@@ -315,58 +315,51 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 col-md-12 col-lg-8">
-                        <div class="text-block mb-50">
-                            <!-- <p class="text-block__desc mb-20 font-weight-bold color-secondary"><span style="color: #213360;">Introduction:</span>
-                Keloids, characterized by raised, overgrown scars, can affect one's appearance and self-esteem. At Skincity India, we understand the challenges posed by keloids and offer a holistic approach to treatment, focusing not only on removal but also on promoting skin health and confidence. In this blog, we will explore the intricacies of keloid treatment, covering everything from advanced therapies to keloid scar prevention.
-                </p> -->
-                            <div class="video-banner-layout3 bg-overlay mb-50">
-                                <img src="assets/images/Vitiligo.png" alt="Clinician examining vitiligo patches on a patient's hand" loading="lazy" style="width: 100%; height: auto;">
-                                
-                            </div><!-- /.video-banner -->
-                            <h2 class="text-block__title">Advanced Care for White Skin Patches</h2>
-                            <p class="text-block__desc mb-30">Vitiligo is a skin condition that causes white patches due to the loss of skin pigmentation. At <strong>Skin City India, Pune</strong>, our dermatologists provide personalized treatment options to help manage vitiligo and support skin repigmentation.</p>
+                        <article class="text-block mb-50 treatment-detail">
+    <img class="treatment-detail__image" src="/assets/images/Vitiligo.png" alt="Vitiligo Clinic" decoding="async">
+    <h2 class="text-block__title">About Vitiligo Clinic</h2>
+    <p class="text-block__desc mb-30">Vitiligo causes loss of skin pigment. Treatment may help restore colour in some areas, but response varies with the type, location and activity of the condition.</p>
 
-                            <h2 class="text-block__title">What Is Vitiligo?</h2>
-                            <p class="text-block__desc mb-20">Vitiligo develops when pigment-producing cells (melanocytes) are damaged or stop functioning. It can affect the face, hands, arms, legs, and other areas of the body.</p>
-                            <p class="text-block__desc mb-30">Vitiligo is not contagious, and its progression varies from person to person.</p>
-
-                            <h2 class="text-block__title">Vitiligo Treatment Options at Skin City India</h2>
-                            <ul class="text-block__desc pl-20 mb-30">
-                                <li class="mb-10"><strong>308 nm Excimer Laser:</strong> Targeted light therapy for selected vitiligo patches.</li>
-                                <li class="mb-10"><strong>Medical Treatment:</strong> Prescribed creams and medicines to help manage the condition.</li>
-                                <li class="mb-10"><strong>Phototherapy:</strong> Controlled light treatment to encourage repigmentation in suitable patients.</li>
-                                <li><strong>Vitiligo Surgery:</strong> Surgical options may be considered for selected patients with stable vitiligo.</li>
-                            </ul>
-
-                            <h2 class="text-block__title">How Does the Treatment Work?</h2>
-                            <p class="text-block__desc mb-20">Our dermatologists examine the affected skin, assess the extent and stability of vitiligo, and recommend a suitable treatment plan.</p>
-                            <p class="text-block__desc mb-30">The number of sessions and response to treatment depend on the condition and individual skin characteristics.</p>
-
-                            <h2 class="text-block__title">Consult a Vitiligo Specialist</h2>
-                            <p class="text-block__desc mb-20">Noticing white patches or changes in skin pigmentation? Visit <strong>Skin City India</strong> for professional evaluation and personalized vitiligo treatment guidance.</p>
-                            <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank" class="btn btn__primary btn__rounded">Book an Appointment Today!</a>
-                        </div><!-- /.text-block -->
-
-                    </div><!-- /.col-lg-8 -->
+    <h2 class="text-block__title">Potential Benefits</h2>
+    <ul class="text-block__desc pl-20 mb-30"><li class="mb-10">A plan suited to the pattern and activity of vitiligo.</li><li class="mb-10">Options to support repigmentation where appropriate.</li><li class="mb-10">Review of response, skin care and ongoing concerns.</li></ul>
+    <h2 class="text-block__title">What to Expect</h2>
+    <p class="text-block__desc mb-30">A dermatologist assesses the patches and discusses medicines, phototherapy or targeted light treatment. Skin grafting or cell-transfer procedures are options for selected stable cases.</p>
+    <h2 class="text-block__title">Results and Considerations</h2>
+    <p class="text-block__desc mb-30">Treatment does not guarantee a cure or stop spread in every patient. Clinic-specific “steroid free” or stabilisation protocols need an explanation of their components and evidence.</p>
+    <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank" rel="noopener" class="btn btn__primary btn__rounded">Book a Consultation</a>
+  </article>
+  </div><!-- /.col-lg-8 -->
                     <div class="col-sm-12 col-md-12 col-lg-4">
                         <aside class="sidebar has-marign-left sticky-top">
-                            <div class="widget widget-services">
-                                <h5 class="widget__title text-center">Our Blogs</h5>
-                                <div class="widget-content">
-                                    <ul class="list-unstyled mb-0">
-                                        <li><a href="how-to-get -rid-of-dark-circle"><span>Dark Circle</span><i
-                                                    class="icon-arrow-right"></i></a></li>
-                                        <li><a href="how-to-get-fair-skin"><span>Fair Skin</span><i
-                                                    class="icon-arrow-right"></i></a></li>
-                                        <li><a href="how-to-get-rid-of-acne"><span>Acne</span><i
-                                                    class="icon-arrow-right"></i></a></li>
-                                        <li><a href="how-to-get-rid-of-blackheads-and-whiteheads"><span>Blackheads
-                                                </span><i class="icon-arrow-right"></i></a></li>
-
-                                    </ul>
-                                </div><!-- /.widget-content -->
-                            </div><!-- /.widget-services -->
-                            <div class="widget widget-help bg-overlay bg-overlay-secondary-gradient">
+                            <div class="widget widget-services"><h2 class="widget__title">Treatments</h2><div class="widget-content"><ul class="list-unstyled mb-0 treatment-navigation"><li><a href="/baby-skin-clinic">Baby Skin Clinic</a></li>
+<li><a href="/chronic-skin-diseases-cinic">Chronic Skin Disease Clinic</a></li>
+<li><a href="/hair-transplant">Hair Transplantation</a></li>
+<li><a href="/Medical-Hair-Fall-Treatments">Medical Hair Fall Treatment</a></li>
+<li><a href="/nutritional-therapy">Nutritional Therapy</a></li>
+<li><a href="/growth-factor-therapy">Growth Factor Therapy</a></li>
+<li><a href="/pain-free-mesotherapy">Scalp Mesotherapy</a></li>
+<li><a href="/microscopic-hair-analysis">Microscopic Hair Analysis</a></li>
+<li><a href="/laser-hair-grow">Laser Hair Growth Therapy</a></li>
+<li><a href="/platelet-rich-plasma">Platelet Rich Plasma Therapy</a></li>
+<li><a href="/triple-grow-factor">Triple Growth Factor Therapy</a></li>
+<li><a href="/scalp-micro-pigmentation">Scalp Micropigmentation</a></li>
+<li><a href="/hyperhydrosis-clinic">Hyperhidrosis Clinic</a></li>
+<li><a href="/vitiligo" aria-current="page">Vitiligo Clinic</a></li>
+<li><a href="/keloids">Keloid Clinic</a></li>
+<li><a href="/scars-removal">Scar Treatment</a></li>
+<li><a href="/birthmark">Birthmark Assessment and Treatment</a></li>
+<li><a href="/laser-tatoo-removal">Laser Tattoo Removal</a></li>
+<li><a href="/stretch-mark-removal">Stretch Mark Treatment</a></li>
+<li><a href="/body-shaping-clinic">Body Shaping Clinic</a></li>
+<li><a href="/anti-aging-clinic">Anti-Aging Clinic</a></li>
+<li><a href="/nail-clinic">Nail Clinic</a></li>
+<li><a href="/Laser-Vaginal-Tightening-Clinic">Vaginal Health Consultation</a></li>
+<li><a href="/Moles-And-Skin-Tag-Removal">Mole and Skin Tag Removal</a></li>
+<li><a href="/Beautiful-Bride">Bridal Skin Consultation</a></li>
+<li><a href="/dark-circle">Dark Circle Treatment</a></li>
+<li><a href="/acne-treatment">Acne Treatment</a></li>
+<li><a href="/laser-hair-reduction">Laser Hair Reduction</a></li></ul></div></div>
+<div class="widget widget-help bg-overlay bg-overlay-secondary-gradient">
                                 <div class="bg-img"><img src="assets/images/banners/5.jpg" alt=""></div>
                                 <div class="widget-content">
                                     <div class="widget__icon">
@@ -456,10 +449,10 @@
                                         <li><a href="vitiligo">Vitiligo Clinic</a></li>
                                         <li><a href="laser-tatoo-removal">Laser Tatoo Removal</a></li>
                                         <li><a href="microscopic-hair-analysis">Microscopic Hair Analysis</a></li>
-                                        <li><a href="pain-free-mesotherapy">Pain Free Mesotherapy</a></li>
+                                        <li><a href="pain-free-mesotherapy">Scalp Mesotherapy</a></li>
                                         <li><a href="laser-hair-grow">Laser Hair Grow</a></li>
                                         <li><a href="platelet-rich-plasma">Platelet Rich Plasma</a></li>
-                                        <li><a href="hair-treatments">Hair Transplant</a></li>
+                                        <li><a href="/hair-transplant">Hair Transplant</a></li>
                                         <li><a href="birthmark">Laser Birthmark Removal</a></li>
                                     </ul>
                                 </nav>

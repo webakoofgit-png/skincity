@@ -1,5 +1,6 @@
 const fs = require('node:fs');
 const path = require('node:path');
+require('./generate-october-blogs.cjs');
 
 const source = path.join(__dirname, 'skincity');
 const output = path.join(__dirname, 'dist');

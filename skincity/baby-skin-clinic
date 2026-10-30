@@ -10,17 +10,17 @@
   gtag('js', new Date());
   gtag('config', 'G-XEC9BP5G8L');
 </script>
-  <link rel="canonical" href="https://www.skincityindia.in/baby-skin-clinic">
+  <link rel="canonical" href="https://skincityindia.in/baby-skin-clinic">
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
     <link href="assets/images/about/favicon.svg" rel="icon">
     <title>Baby Skin Clinic | Skin City India</title>
-    <meta property="og:image" content="https://skincityindia.in/assets/images/services/previewbaby.png" loading="lazy" />
+    <meta property="og:image" content="https://skincityindia.in/assets/images/services/baby%20skin%20clinic.png">
     <meta property="og:title" content="Baby Skin Clinic | Skin City India">
-    <meta name="description" content="Expert baby skin care at Skin City India. Get dermatological care for baby eczema, diaper rashes, allergies and sensitive skin." />
-    <meta property="og:url" content="https://www.skincityindia.in/baby-skin-clinic" />
+    <meta name="description" content="Dermatology care for babies and children includes assessment of eczema, nappy rash, cradle cap, irritation, infections and birthmarks. Care is selected for the child’s age and diagnosis.">
+    <meta property="og:url" content="https://skincityindia.in/baby-skin-clinic">
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css">
@@ -33,10 +33,10 @@
 
 <body>
     <div class="wrapper">
-       
+
 
         <header class="header header-layout1">
-  
+
           <div class="header-topbar">
               <div class="container-fluid">
                   <div class="row align-items-center">
@@ -44,7 +44,7 @@
                           <div class="d-flex align-items-center justify-content-between">
                               <ul class="contact__list d-flex flex-wrap align-items-center list-unstyled mb-0 text-center"
                                   style="margin-top: 20px;">
-  
+
                                   <li>
                                       <i class="icon-phone"></i><a href="tel:+91 9890225577">+91 9890225577</a> / <a href="tel:+919422458130">+91 9422458130</a>
                                   </li>
@@ -53,7 +53,7 @@
                                           Road, Opposite
                                           Commissioner Office, Maharashtra 411001</a>
                                   </li>
-  
+
                               </ul>
                               <div class="d-flex" style="margin-top: 10px;">
                                   <ul class="social-icons list-unstyled mb-0 mr-30">
@@ -80,7 +80,7 @@
               <div class="container-fluid">
                   <a class="navbar-brand" href="/">
                       <img src="assets/images/logo/logo.svg" class="" alt="Skin City India" loading="lazy" width="160px" height="80px">
-  
+
                   </a>
                   <button class="navbar-toggler" type="button">
                       <span class="menu-lines"><span></span></span>
@@ -92,11 +92,12 @@
                           </li>
                           <li class="nav__item has-dropdown">
                               <a href="about" class="nav__item-link ">About</a>
-  
+
                           </li>
                           <li class="nav__item has-dropdown">
                               <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link active">Treatments</a>
                               <ul class="dropdown-menu">
+<li class="nav__item"><a href="/treatments" class="nav__item-link">All Treatments</a></li>
                                   <li class=" nav__item has-dropdown">
                                       <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link"
                                           style="font-weight: bold;">Skin</a>
@@ -111,20 +112,20 @@
                                                   style="font-weight: bold;">Chronic
                                                   Skin Disease</a>
                                           </li>
-  
+
                                       </ul>
                                   </li>
                                   <li class="nav__item">
                                       <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link"
                                           style="font-weight: bold;">Hair</a>
                                       <ul style="list-style: none;">
-  
+
                                           <li class="nav__item">
                                               <a href="hair-transplant" class="nav__item-link"
                                                   style="font-weight: bold;">Hair
                                                   Transplantation</a>
                                           </li>
-                                         
+
                                           <li class="nav__item">
                                               <a href="Medical-Hair-Fall-Treatments" class="nav__item-link"
                                                   style="font-weight: bold;">Medical
@@ -132,8 +133,7 @@
                                           </li>
                                           <li class="nav__item">
                                               <a href="pain-free-mesotherapy" class="nav__item-link"
-                                                  style="font-weight: bold;">Pain Free
-                                                  Mesotherapy</a>
+                                                  style="font-weight: bold;">Scalp Mesotherapy</a>
                                           </li>
                                           <li class="nav__item">
                                               <a href="microscopic-hair-analysis" class="nav__item-link"
@@ -167,7 +167,7 @@
                                   class="dropdown-toggle nav__item-link ">Superspeciality
                                   Dermatology</a>
                               <ul class="dropdown-menu">
-  
+
                                   <li class="nav__item">
                                       <a href="hyperhydrosis-clinic" class="nav__item-link"
                                           style="font-weight: bold;">Hyperhydrosis
@@ -202,12 +202,12 @@
                                   </li>
                               </ul>
                           </li>
-  
+
                           <li class="nav__item has-dropdown">
                               <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link ">Cosmetic
                                   Dermatology</a>
                               <ul class="dropdown-menu">
-  
+
                                   <li class="nav__item">
                                       <a href="body-shaping-clinic" class="nav__item-link"
                                           style="font-weight: bold;">Body Shaping
@@ -231,19 +231,19 @@
                                       <a href="Moles-And-Skin-Tag-Removal" class="nav__item-link"
                                           style="font-weight: bold;">Moles And
                                           Skin Tag Removal
-  
+
                                       </a>
                                   </li>
                                   <li class="nav__item">
                                       <a href="Beautiful-Bride" class="nav__item-link"
                                           style="font-weight: bold;">Beautiful Bride
-  
+
                                       </a>
                                   </li>
                                   <li class="nav__item">
                                       <a href="dark-circle" class="nav__item-link" style="font-weight: bold;">Dark
                                           Circles
-  
+
                                       </a>
                                   </li>
                               </ul>
@@ -251,11 +251,11 @@
                           <li class="nav__item">
                               <a href="success-stories" class="nav__item-link">Success Stories</a>
                           </li>
-  
-  
+
+
                           <li class="nav__item">
-  
-  
+
+
                               <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank"
                                   class="btn btn__primary btn__rounded ml-25" style="margin-top: 10px;">
                                   <i class="icon-calendar"></i>
@@ -265,7 +265,7 @@
                       </ul>
                       <button class="close-mobile-menu d-block d-lg-none"><i class="fas fa-times"></i></button>
                   </div>
-  
+
               </div>
           </nav>
       </header>
@@ -315,79 +315,51 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 col-md-12 col-lg-8">
-                        <div class="text-block mb-50">
+                        <article class="text-block mb-50 treatment-detail">
+    <img class="treatment-detail__image" src="/assets/images/services/baby%20skin%20clinic.png" alt="Baby Skin Clinic" decoding="async">
+    <h2 class="text-block__title">About Baby Skin Clinic</h2>
+    <p class="text-block__desc mb-30">Dermatology care for babies and children includes assessment of eczema, nappy rash, cradle cap, irritation, infections and birthmarks. Care is selected for the child’s age and diagnosis.</p>
 
-                            <div class="video-banner-layout3 bg-overlay mb-50" style="text-align: justify;">
-                                <img src="assets/images/services/baby skin clinic.png" alt="Doctor examining a baby at a pediatric skin clinic">
-
-                            </div>
-                            <h2 class="text-block__title">Gentle &amp; Specialized Skin Care for Babies and Children</h2>
-                            <p class="text-block__desc mb-30">A baby's skin is delicate and sensitive, making it more
-                                prone to rashes, dryness, allergies, and infections. At Skin City India, Pune, we provide
-                                dermatological care for babies and children, helping parents understand and manage their
-                                little ones' skin concerns.</p>
-
-                            <h2 class="text-block__title">What Is Baby Skin Treatment?</h2>
-                            <p class="text-block__desc mb-30">Baby skin treatment focuses on diagnosing and managing
-                                common skin problems in newborns, infants, and children. Our dermatologists examine the
-                                child's skin condition and recommend gentle, age-appropriate treatments to reduce
-                                irritation, relieve discomfort, and support healthy skin.</p>
-
-                            <h2 class="text-block__title">Common Skin Conditions We Treat</h2>
-                            <ul class="text-block__desc pl-20 mb-30">
-                                <li class="mb-10"><strong>Baby Eczema:</strong> Dry, itchy, and irritated skin.</li>
-                                <li class="mb-10"><strong>Diaper Rash:</strong> Redness and irritation in the diaper area.</li>
-                                <li class="mb-10"><strong>Skin Allergies:</strong> Rashes caused by irritants or allergic reactions.</li>
-                                <li class="mb-10"><strong>Cradle Cap:</strong> Flaky or scaly patches on the baby's scalp.</li>
-                                <li class="mb-10"><strong>Skin Infections:</strong> Fungal or bacterial skin conditions.</li>
-                                <li><strong>Birthmarks:</strong> Evaluation of unusual skin marks or pigmentation.</li>
-                            </ul>
-
-                            <h2 class="text-block__title">How Does the Treatment Work?</h2>
-                            <p class="text-block__desc mb-20">Our dermatologists first examine the baby's skin and
-                                identify the possible cause of the problem. Based on the condition, they may recommend
-                                suitable moisturizers, gentle skin-care routines, or prescribed medication when required.</p>
-                            <p class="text-block__desc mb-30">The treatment approach is selected according to the child's
-                                age, skin sensitivity, and individual needs.</p>
-
-                            <h2 class="text-block__title">Consult a Baby Skin Specialist</h2>
-                            <p class="text-block__desc mb-20">If your baby experiences frequent rashes, itching, dryness,
-                                or other skin concerns, consult the dermatology team at Skin City India for appropriate
-                                guidance and care.</p>
-                            <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank"
-                                class="btn btn__primary btn__rounded">Book an Appointment</a>
-
-
-
-                        </div>
-
-
-
-
-
-
-                    </div><!-- /.col-lg-8 -->
+    <h2 class="text-block__title">Potential Benefits</h2>
+    <ul class="text-block__desc pl-20 mb-30"><li class="mb-10">Advice for sensitive skin and everyday skin care.</li><li class="mb-10">Diagnosis-led care for persistent or recurring symptoms.</li><li class="mb-10">Follow-up to review symptoms and prescribed treatment.</li></ul>
+    <h2 class="text-block__title">What to Expect</h2>
+    <p class="text-block__desc mb-30">The dermatologist asks about symptoms, products and previous treatment, then examines the affected skin. A plan may include gentle skin care, moisturisers or prescribed medication when appropriate.</p>
+    <h2 class="text-block__title">Results and Considerations</h2>
+    <p class="text-block__desc mb-30">Do not use adult prescription creams on a baby without medical advice. A child with a rapidly spreading rash, fever or general illness needs prompt medical assessment.</p>
+    <a href="https://forms.gle/vAWi451D63qXS9Sn8" target="_blank" rel="noopener" class="btn btn__primary btn__rounded">Book a Consultation</a>
+  </article>
+  </div><!-- /.col-lg-8 -->
                     <div class="col-sm-12 col-md-12 col-lg-4">
                         <aside class="sidebar has-marign-left sticky-top">
-                            <div class="widget widget-services">
-                                <h5 class="widget__title text-center">Our Blogs</h5>
-                                <div class="widget-content">
-                                    <ul class="list-unstyled mb-0">
-                                        <li><a href="how-to-get -rid-of-dark-circle"><span>Dark Circle</span><i
-                                                    class="icon-arrow-right"></i></a></li>
-                                        <li><a href="how-to-get-fair-skin"><span>Fair Skin</span><i
-                                                    class="icon-arrow-right"></i></a></li>
-                                        <li><a href="how-to-get-rid-of-acne"><span>Acne</span><i
-                                                    class="icon-arrow-right"></i></a></li>
-                                        <li><a href="how-to-get-rid-of-blackheads-and-whiteheads"><span>Blackheads
-                                                </span><i class="icon-arrow-right"></i></a></li>
-                                        <li><a href="Why-Birthmark-Removal-Treatment-is-Stopped-in-Summer"><span>Birthmark
-                                                </span><i class="icon-arrow-right"></i></a></li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="widget widget-help bg-overlay bg-overlay-secondary-gradient">
+                            <div class="widget widget-services"><h2 class="widget__title">Treatments</h2><div class="widget-content"><ul class="list-unstyled mb-0 treatment-navigation"><li><a href="/baby-skin-clinic" aria-current="page">Baby Skin Clinic</a></li>
+<li><a href="/chronic-skin-diseases-cinic">Chronic Skin Disease Clinic</a></li>
+<li><a href="/hair-transplant">Hair Transplantation</a></li>
+<li><a href="/Medical-Hair-Fall-Treatments">Medical Hair Fall Treatment</a></li>
+<li><a href="/nutritional-therapy">Nutritional Therapy</a></li>
+<li><a href="/growth-factor-therapy">Growth Factor Therapy</a></li>
+<li><a href="/pain-free-mesotherapy">Scalp Mesotherapy</a></li>
+<li><a href="/microscopic-hair-analysis">Microscopic Hair Analysis</a></li>
+<li><a href="/laser-hair-grow">Laser Hair Growth Therapy</a></li>
+<li><a href="/platelet-rich-plasma">Platelet Rich Plasma Therapy</a></li>
+<li><a href="/triple-grow-factor">Triple Growth Factor Therapy</a></li>
+<li><a href="/scalp-micro-pigmentation">Scalp Micropigmentation</a></li>
+<li><a href="/hyperhydrosis-clinic">Hyperhidrosis Clinic</a></li>
+<li><a href="/vitiligo">Vitiligo Clinic</a></li>
+<li><a href="/keloids">Keloid Clinic</a></li>
+<li><a href="/scars-removal">Scar Treatment</a></li>
+<li><a href="/birthmark">Birthmark Assessment and Treatment</a></li>
+<li><a href="/laser-tatoo-removal">Laser Tattoo Removal</a></li>
+<li><a href="/stretch-mark-removal">Stretch Mark Treatment</a></li>
+<li><a href="/body-shaping-clinic">Body Shaping Clinic</a></li>
+<li><a href="/anti-aging-clinic">Anti-Aging Clinic</a></li>
+<li><a href="/nail-clinic">Nail Clinic</a></li>
+<li><a href="/Laser-Vaginal-Tightening-Clinic">Vaginal Health Consultation</a></li>
+<li><a href="/Moles-And-Skin-Tag-Removal">Mole and Skin Tag Removal</a></li>
+<li><a href="/Beautiful-Bride">Bridal Skin Consultation</a></li>
+<li><a href="/dark-circle">Dark Circle Treatment</a></li>
+<li><a href="/acne-treatment">Acne Treatment</a></li>
+<li><a href="/laser-hair-reduction">Laser Hair Reduction</a></li></ul></div></div>
+<div class="widget widget-help bg-overlay bg-overlay-secondary-gradient">
                                 <div class="bg-img"><img src="assets/images/banners/5.jpg" alt=""></div>
                                 <div class="widget-content">
                                     <div class="widget__icon">
@@ -472,10 +444,10 @@
                                         <li><a href="vitiligo">Vitiligo Clinic</a></li>
                                         <li><a href="laser-tatoo-removal">Laser Tatoo Removal</a></li>
                                         <li><a href="microscopic-hair-analysis">Microscopic Hair Analysis</a></li>
-                                        <li><a href="pain-free-mesotherapy">Pain Free Mesotherapy</a></li>
+                                        <li><a href="pain-free-mesotherapy">Scalp Mesotherapy</a></li>
                                         <li><a href="laser-hair-grow">Laser Hair Grow</a></li>
                                         <li><a href="platelet-rich-plasma">Platelet Rich Plasma</a></li>
-                                        <li><a href="hair-treatments">Hair Transplant</a></li>
+                                        <li><a href="/hair-transplant">Hair Transplant</a></li>
                                         <li><a href="birthmark">Laser Birthmark Removal</a></li>
                                     </ul>
                                 </nav>
